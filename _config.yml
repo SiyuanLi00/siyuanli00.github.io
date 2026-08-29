@@ -4,7 +4,7 @@ description              : "Ph.D. Candidate at Shanghai Jiao Tong University"
 repository               : "SiyuanLi00/siyuanli00.github.io"
 url: "https://siyuanli00.github.io"
 baseurl: ""
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : flase
 
 # google analytics
 google_analytics_id      :  
