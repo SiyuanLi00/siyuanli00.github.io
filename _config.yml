@@ -18,18 +18,18 @@ baidu_site_verification  :
 social:
   email: siyuanli@sjtu.edu.cn
   scholar: 你的Google Scholar用户ID
-  orcid: 0000-0000-0000-0000
-  dblp: 你的DBLP ID
+
+
   
 # Site Author
 author:
   name             : "Siyuan Li"
   avatar           : "/images/profile.png"
-  bio              : "Ph.D. Candidate at Shanghai Jiao Tong University"
+  bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           :
-  googlescholar    : "在这里填你的Google Scholar ID"   # 打开你的Google Scholar主页，URL里 user= 后面那串
+  googlescholar    : "7w89fusAAAAJ"   # 打开你的Google Scholar主页，URL里 user= 后面那串
   email            : "siyuanli@sjtu.edu.cn"
   researchgate     :  
   uri              :
