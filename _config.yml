@@ -29,7 +29,7 @@ author:
   location         : "Shanghai, China"
   employer         :
   pubmed           :
-  googlescholar    : ""https://scholar.google.com/citations?user=7w89fusAAAAJ&hl=zh-CN"   # 打开你的Google Scholar主页，URL里 user= 后面那串
+  googlescholar    : "https://scholar.google.com/citations?user=7w89fusAAAAJ"   # 打开你的Google Scholar主页，URL里 user= 后面那串
   email            : "siyuanli@sjtu.edu.cn"
   researchgate     :  
   uri              :
