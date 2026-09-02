@@ -14,7 +14,7 @@ He has published over 10 papers at top venues including AAAI, IEEE TSC, IEEE TIF
 
 ## News
 
-- **2026.03** — One paper accepted by **AAAI 2026** (CCF-A)!
+- **2026.03** — One paper accepted by **AAAI 2026** (CCF-A)
 - **2025.09** — Awarded the **Ant Group Ph.D. Innovation Grant** (PI, 60,000 RMB), supported by Ant Group & Cyberspace Security College.
 - **2025.06** — Received the **COSCO Shipping Scholarship** at Shanghai Jiao Tong University (top 5%).
 - **2025.01** — One paper accepted by **IEEE Communications Magazine**.
