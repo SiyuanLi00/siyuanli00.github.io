@@ -24,7 +24,7 @@ social:
 # Site Author
 author:
   name             : "Siyuan Li"
-  avatar           : "images/profile.png"
+  avatar           : "/images/profile.png"
   bio              : "Ph.D. Candidate at Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
