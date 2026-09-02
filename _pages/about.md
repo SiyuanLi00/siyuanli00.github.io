@@ -1,22 +1,6 @@
 ---
-layout: about
-title: About
+title: "About"
 permalink: /about/
-subtitle: Ph.D. Candidate · School of Computer Science · Shanghai Jiao Tong University
-
-profile:
-  align: left
-  image:
-  image_circular: false
-  more_info: >
-    <p><i class="fas fa-envelope"></i> siyuanli@sjtu.edu.cn</p>
-    <p><i class="fas fa-phone"></i> (+86) 186-1658-1112</p>
-    <p><i class="fas fa-map-marker-alt"></i> Shanghai, China</p>
-    <p><i class="fas fa-user-tie"></i> Advisor: Prof. Jianhua Li</p>
-
-news: false
-selected_papers: false
-social: true
 ---
 
 **Siyuan Li** is a Ph.D. candidate in the School of Computer Science at Shanghai Jiao Tong University, advised by Prof. Jianhua Li. He received his B.Eng. in Information Security from Shanghai Jiao Tong University in 2022, and continued his graduate studies there, transitioning to the Ph.D. program in April 2024.
