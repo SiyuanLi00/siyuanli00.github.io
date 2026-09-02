@@ -46,8 +46,8 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : 
-  dblp             : "在这里填你的DBLP ID"               # 打开你的DBLP页面，URL里 pid/ 后面那串
-  orcid            : "在这里填你的ORCID"                  # 格式如 0000-0001-2345-6789
+  dblp             : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
