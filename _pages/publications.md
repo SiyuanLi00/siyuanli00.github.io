@@ -3,8 +3,31 @@ title: "Publications"
 permalink: /publications/
 ---
 
+<!-- ================= Selected Publications ================= -->
+<div class="sec"><h2 id="selected">Selected Publications</h2></div>
+
+1. ⭐ **Model-Agnostic Sentiment Distribution Stability Analysis for Robust LLM-Generated Texts Detection**<br>
+   **Siyuan Li**, X. Lin, G. Li, Z. Liu, A. Wulianghai, L. Ding, J. Wu, J. Li.<br>
+   *AAAI 2026* (CCF-A). [arXiv]
+
+2. ⭐ **AI-Generated Content-Based Edge Learning for Fast and Efficient Few-Shot Defect Detection in IIoT**<br>
+   **Siyuan Li**, X. Lin, W. Xu, J. Li.<br>
+   *IEEE Transactions on Services Computing (TSC)*, 2024 (CCF-A). [arXiv]
+
+3. ⭐ **StyleDecipher: Revisiting LLM-Generated Texts Detection via Stylistic Divergence and Localized Attribution**<br>
+   **Siyuan Li**, A. Wulianghai, X. Lin, G. Li, X. Chen, J. Wu, J. Li.<br>
+   *IEEE Transactions on Information Forensics and Security (TIFS)*, accepted, 2026 (CCF-A). [arXiv]
+
+4. ⭐ **Trustworthy AI-Generative Content in Intelligent 6G Network: Adversarial, Privacy, and Fairness**<br>
+   **Siyuan Li**, X. Lin, Y. Liu, X. Chen, J. Li.<br>
+   *IEEE Communications Magazine*, 2025. [arXiv]
+
+5. ⭐ **QoS-Aware Multi-AIGC Service Orchestration at Edges: An Attention-Diffusion-Aided DRL Method**<br>
+   Y. Liu†, **Siyuan Li**† (co-first), X. Lin, X. Chen, G. Li, Y. Liu, B. Liao, J. Li.<br>
+   *IEEE Transactions on Cognitive Communications and Networking (TCCN)*, 2025. [arXiv]
+
 <!-- ================= Full Publication List ================= -->
-<div class="sec"><h2>Publications</h2></div>
+<div class="sec"><h2 id="full">Full Publication List</h2></div>
 
 ### Journal & Conference Papers
 
