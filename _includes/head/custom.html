@@ -9,11 +9,17 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="assets/css/academicons.css"/>
 <style>
-  /* ===== 顶部导航条：标题左、导航右、底部黑线 ===== */
-  .masthead { border-bottom:1px solid #e0e0e0; padding:.7em 0; }
-  .masthead .site-title { font-size:1.5em; font-weight:700; letter-spacing:.5px; color:#1a1a1a; }
-  .masthead .visible-links a { font-size:1.05em; font-weight:500; color:#444; }
-  .masthead .visible-links a:hover { color:#2c5f9e; }
+  /* ===== 大气导航栏：标题左、导航右、同一行 ===== */
+  .masthead { border-bottom:1px solid #e8e8e8; padding:1.1em 0; background:#fff; }
+  .masthead .greedy-nav { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; }
+  .masthead .site-title { font-size:1.65em; font-weight:700; letter-spacing:.8px; color:#1a1a1a; flex:none; text-decoration:none; }
+  .masthead .site-title:hover { color:#2c5f9e; }
+  .masthead .visible-links { display:flex; align-items:center; gap:2.2em; margin:0; padding:0; list-style:none; }
+  .masthead .visible-links li { margin:0; }
+  .masthead .visible-links a { font-size:1.08em; font-weight:500; color:#555; letter-spacing:.5px; text-transform:uppercase; position:relative; padding:.3em 0; transition:color .2s ease; text-decoration:none; }
+  .masthead .visible-links a::after { content:''; position:absolute; bottom:0; left:0; width:0; height:2px; background:#2c5f9e; transition:width .25s ease; }
+  .masthead .visible-links a:hover { color:#1a1a1a; }
+  .masthead .visible-links a:hover::after { width:100%; }
 
 
   /* ===== 顶部大标题 Hi, I am Siyuan Li ===== */
