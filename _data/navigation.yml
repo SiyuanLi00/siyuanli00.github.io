@@ -1,13 +1,5 @@
 main:
   - title: "Homepage"
     url: /
-  - title: "About Me"
-    url: /about/
-  - title: "News"
-    url: /about/#news
   - title: "Publications"
     url: /publications/
-  - title: "Educations"
-    url: /about/#education
-  - title: "Awards"
-    url: /about/#awards-honors
