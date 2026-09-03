@@ -14,11 +14,11 @@ He has published over 10 papers at top venues including AAAI, IEEE TSC, IEEE TIF
 
 ## News
 
-- **2026.03** — One paper accepted by **AAAI 2026** (CCF-A)
-- **2025.09** — Awarded the **Ant Group Ph.D. Innovation Grant** (PI, 60,000 RMB), supported by Ant Group & Cyberspace Security College.
-- **2025.06** — Received the **COSCO Shipping Scholarship** at Shanghai Jiao Tong University (top 5%).
-- **2025.01** — One paper accepted by **IEEE Communications Magazine**.
-- **2024.04** — Started Ph.D. studies at Shanghai Jiao Tong University.
+- **2026.03** — One paper accepted by **AAAI 2026** (CCF-A) on robust detection of LLM-generated texts!
+- **2025.09** — Selected as **PI of the Ant Group Ph.D. Innovation Grant** (¥60,000), a competitive sponsorship co-established by Ant Group & the Cyberspace Security College, on privacy-preserving tabular data synthesis.
+- **2025.06** — Awarded the **COSCO Shipping Scholarship** at Shanghai Jiao Tong University (top 5%).
+- **2025.01** — One paper on trustworthy AI for intelligent 6G networks accepted by **IEEE Communications Magazine**.
+- **2024.04** — Started Ph.D. studies at Shanghai Jiao Tong University, advised by Prof. Jianhua Li.
 
 ## Education
 
