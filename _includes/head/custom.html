@@ -9,9 +9,10 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="assets/css/academicons.css"/>
 <style>
-  /* ===== 大气导航栏：标题左、导航右、同一行 ===== */
+  /* ===== 大气导航栏：标题 + 导航都左对齐，导航紧跟标题 ===== */
   .masthead { border-bottom:1px solid #e8e8e8; padding:1.1em 0; background:#fff; }
-  .masthead .greedy-nav { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; }
+  .masthead .greedy-nav { display:flex; align-items:center; gap:2.5em; }
+  .masthead .greedy-nav button { display:none !important; }
   .masthead .site-title { font-size:1.65em; font-weight:700; letter-spacing:.8px; color:#1a1a1a; flex:none; text-decoration:none; }
   .masthead .site-title:hover { color:#2c5f9e; }
   .masthead .visible-links { display:flex; align-items:center; gap:2.2em; margin:0; padding:0; list-style:none; }
