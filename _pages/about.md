@@ -13,21 +13,21 @@ My research lies in **trustworthy AI** and **multi-agent systems**, with a focus
 - **Multi-agent Systems**: Security risks of LLM-driven agents and multi-agent reinforcement learning; real-world applications in content security risk control and industrial IoT.
 - **Trustworthy Generative AI**: Security abuses of LLM / text-to-image models (e.g., jailbreaking, agent misuse); detection mechanisms for AI-generated content.
 
-I have published over **10 papers** at top venues including **AAAI**, **IEEE TSC**, **IEEE TIFS**, and **IEEE Communications Magazine**, and serve as a reviewer for **ICML**, **ICLR**, **AAAI**, and multiple IEEE journals. I can be reached at [siyuanli@sjtu.edu.cn](mailto:siyuanli@sjtu.edu.cn).
+I have published over **10 papers** at top venues including **AAAI**, **IEEE TSC**, **IEEE TIFS**, and **IEEE Communications Magazine**, and serve as a reviewer for **ICML**, **ICLR**, **AAAI**, and multiple IEEE journals.
 
 <!-- ================= News ================= -->
 <div class="sec"><h2>News</h2></div>
 
 - 🎉 **2026.03** — One paper accepted by **AAAI 2026** (CCF-A) on robust detection of LLM-generated texts!
-- 🚀 **2025.09** — Selected as **PI of the Ant Group Ph.D. Innovation Grant** (¥60,000), a competitive sponsorship co-established by Ant Group & the Cyberspace Security College, on privacy-preserving tabular data synthesis.
-- 🏆 **2025.06** — Awarded the **COSCO Shipping Scholarship** at Shanghai Jiao Tong University (top 5%).
-- 📄 **2025.01** — One paper on trustworthy AI for intelligent 6G networks accepted by **IEEE Communications Magazine**.
-- 🎓 **2024.04** — Started Ph.D. studies at Shanghai Jiao Tong University, advised by Prof. Jianhua Li.
+- 🎉 **2025.09** — Selected as **PI of the Ant Group Ph.D. Innovation Grant** (¥60,000), a competitive sponsorship co-established by Ant Group & the Cyberspace Security College, on privacy-preserving tabular data synthesis.
+- 🎉 **2025.06** — Awarded the **COSCO Shipping Scholarship** at Shanghai Jiao Tong University (top 5%).
+- 🎉 **2025.01** — One paper on trustworthy AI for intelligent 6G networks accepted by **IEEE Communications Magazine**.
+- 🎉 **2024.04** — Started Ph.D. studies at Shanghai Jiao Tong University, advised by Prof. Jianhua Li.
 
 <!-- ================= Education ================= -->
 <div class="sec"><h2>Education</h2></div>
 
-- 🎓 **Ph.D. Candidate in Computer Science**, Shanghai Jiao Tong University, Apr. 2024 – Present
+- **Ph.D. Candidate in Computer Science**, Shanghai Jiao Tong University, Apr. 2024 – Present
   - Advisor: **Prof. Jianhua Li**
 - **M.Sc. in Computer Science**, Shanghai Jiao Tong University, Sep. 2022 – Mar. 2024
 - **B.Eng. in Information Security**, Shanghai Jiao Tong University, Sep. 2018 – Jun. 2022
@@ -102,23 +102,23 @@ I have published over **10 papers** at top venues including **AAAI**, **IEEE TSC
 
 **Participating:**
 
-- 🔐 **Key Joint Fund of NSFC (U20B2048)**: Intelligent Detection and Defense against Stealthy Unknown Attacks in Critical-Infrastructure Networks, Jan. 2021 – Dec. 2025. Responsible for modeling and detection algorithms for multimodal content security.
-- 🔐 **Key Joint Fund of NSFC (U21B2019)**: Intelligent Inference and Tracing of Security Events for IoT under Resource-Constrained Edges, Jan. 2022 – Present. Responsible for algorithm design of intelligent inference systems.
-- 🔐 **Key Project of NSFC (61972255)**: Construction and Evolution Analysis of Implicit Knowledge for Hybrid Networks, Jan. 2020 – Dec. 2023. Responsible for algorithm design for hybrid-network knowledge analysis.
+- **Key Joint Fund of NSFC (U20B2048)**: Intelligent Detection and Defense against Stealthy Unknown Attacks in Critical-Infrastructure Networks, Jan. 2021 – Dec. 2025. Responsible for modeling and detection algorithms for multimodal content security.
+- **Key Joint Fund of NSFC (U21B2019)**: Intelligent Inference and Tracing of Security Events for IoT under Resource-Constrained Edges, Jan. 2022 – Present. Responsible for algorithm design of intelligent inference systems.
+- **Key Project of NSFC (61972255)**: Construction and Evolution Analysis of Implicit Knowledge for Hybrid Networks, Jan. 2020 – Dec. 2023. Responsible for algorithm design for hybrid-network knowledge analysis.
 
 <!-- ================= Awards & Honors ================= -->
 <div class="sec"><h2>Awards & Honors</h2></div>
 
-- 🏆 **2025 COSCO Shipping Scholarship**, Shanghai Jiao Tong University (top 5%)
-- 🏅 **2025 Outstanding Academic Paper Award**, *Journal of Cyberspace Security Science*
-- 🏅 **2024 First-Class Cyberspace Security Scholarship** (top 5%)
-- 🏅 **2023 Xiaomi Scholarship** (top 5%)
-- 🎓 **2022 Outstanding Graduate**, Shanghai Jiao Tong University (top 20%)
-- 🏅 **2021 Shouqianba Scholarship** (top 5%)
-- 📚 **2023–2025 Graduate Merit Scholarship** (top 30%)
-- 📚 **2019–2021 Undergraduate Merit Scholarship** (top 10%)
+- **2025 COSCO Shipping Scholarship**, Shanghai Jiao Tong University (top 5%)
+- **2025 Outstanding Academic Paper Award**, *Journal of Cyberspace Security Science*
+- **2024 First-Class Cyberspace Security Scholarship** (top 5%)
+- **2023 Xiaomi Scholarship** (top 5%)
+- **2022 Outstanding Graduate**, Shanghai Jiao Tong University (top 20%)
+- **2021 Shouqianba Scholarship** (top 5%)
+- **2023–2025 Graduate Merit Scholarship** (top 30%)
+- **2019–2021 Undergraduate Merit Scholarship** (top 10%)
 
 <!-- ================= Academic Service ================= -->
 <div class="sec"><h2>Academic Service</h2></div>
 
-- ✍️ Reviewer for **ICML**, **ICLR**, **AAAI**, **ACM MM**, **TDSC**, **TIFS**, **TMC**, **TSC**, **TCCN**, **IPM**, etc.
+- Reviewer for **ICML**, **ICLR**, **AAAI**, **ACM MM**, **TDSC**, **TIFS**, **TMC**, **TSC**, **TCCN**, **IPM**, etc.
