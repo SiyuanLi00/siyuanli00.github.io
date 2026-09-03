@@ -9,8 +9,30 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="assets/css/academicons.css"/>
 <style>
+  /* ===== 顶部导航条：标题左、导航右、底部黑线 ===== */
+  .masthead { border-bottom:3px solid #1a1a1a; }
+  .masthead .site-title { font-weight:700; letter-spacing:.5px; }
+
+  /* ===== 顶部大标题 Hi, I am Siyuan Li ===== */
+  .intro h1 { font-size:2.2em; font-weight:700; color:#1a1a1a; margin:0 0 .3em; letter-spacing:.5px; }
+  .intro p { color:#444; line-height:1.7; }
+
+  /* ===== 板块标题（大号大写 + 前置小图标） ===== */
   .sec { margin:2.8em 0 1em; }
-  .sec h2 { font-size:1.7em; font-weight:700; text-transform:uppercase; letter-spacing:1px; color:#1a1a1a; margin:0; }
+  .sec h2 { font-size:1.7em; font-weight:700; text-transform:uppercase; letter-spacing:1px; color:#1a1a1a; margin:0; display:flex; align-items:center; gap:.5em; }
+  .sec h2 .sec-icon { width:2em; height:2em; border-radius:8px; background:#eef3fa; color:#2c5f9e; display:inline-flex; align-items:center; justify-content:center; flex:none; }
+  .sec h2 .sec-icon svg { width:1.15em; height:1.15em; }
+
+  /* ===== 研究方向卡片（统一配色 + 图标） ===== */
+  .research-grid { display:grid; grid-template-columns:1fr 1fr; gap:1.2em; margin:1.2em 0 2em; }
+  .research-card { border:1px solid #e8e8e8; border-radius:14px; padding:1.5em 1.6em; background:#fff; transition:box-shadow .2s ease, transform .2s ease; }
+  .research-card:hover { box-shadow:0 8px 24px rgba(0,0,0,.08); transform:translateY(-2px); }
+  .research-icon { width:48px; height:48px; border-radius:12px; background:#eef3fa; color:#2c5f9e; display:flex; align-items:center; justify-content:center; margin-bottom:.9em; }
+  .research-icon svg { width:26px; height:26px; }
+  .research-card h3 { margin:0 0 .7em; font-size:1.12em; color:#1a1a1a; }
+  .research-card ul { margin:0; padding-left:1.2em; }
+  .research-card li { margin:.4em 0; font-size:.93em; color:#444; }
+  @media (max-width: 600px) { .research-grid { grid-template-columns:1fr; } }
 </style>
 
 
