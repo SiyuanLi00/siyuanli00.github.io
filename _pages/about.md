@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 <!-- ================= About Me ================= -->
-<div class="sec"><h2>About Me</h2></div>
+<div class="sec"><h2><i class="fas fa-user" style="color:#3b82f6"></i>About Me</h2></div>
 
 I am a Ph.D. candidate in the School of Computer Science at Shanghai Jiao Tong University, advised by Prof. Jianhua Li. I received my B.Eng. in Information Security from Shanghai Jiao Tong University in 2022, and continued my graduate studies there, transitioning to the Ph.D. program in April 2024.
 
@@ -16,7 +16,7 @@ My research lies in **trustworthy AI** and **multi-agent systems**, with a focus
 I have published over 10 papers at top venues including AAAI, IEEE TSC, IEEE TIFS, and IEEE Communications Magazine, and serve as a reviewer for ICML, ICLR, AAAI, and multiple IEEE journals.
 
 <!-- ================= News ================= -->
-<div class="sec"><h2>News</h2></div>
+<div class="sec"><h2><i class="fas fa-newspaper" style="color:#f59e0b"></i>News</h2></div>
 
 - **2026.03** — One paper accepted by **AAAI 2026** (CCF-A) on robust detection of LLM-generated texts!
 - **2025.09** — Selected as **PI of the Ant Group Ph.D. Innovation Grant** (¥60,000), a competitive sponsorship co-established by Ant Group & the Cyberspace Security College, on privacy-preserving tabular data synthesis.
@@ -25,7 +25,7 @@ I have published over 10 papers at top venues including AAAI, IEEE TSC, IEEE TIF
 - **2024.04** — Started Ph.D. studies at Shanghai Jiao Tong University, advised by Prof. Jianhua Li.
 
 <!-- ================= Education ================= -->
-<div class="sec"><h2>Education</h2></div>
+<div class="sec"><h2><i class="fas fa-graduation-cap" style="color:#8b5cf6"></i>Education</h2></div>
 
 - **Ph.D. Candidate in Computer Science**, Shanghai Jiao Tong University, Apr. 2024 – Present
   - Advisor: Prof. Jianhua Li
@@ -33,7 +33,7 @@ I have published over 10 papers at top venues including AAAI, IEEE TSC, IEEE TIF
 - **B.Eng. in Information Security**, Shanghai Jiao Tong University, Sep. 2018 – Jun. 2022
 
 <!-- ================= Selected Publications ================= -->
-<div class="sec"><h2>Selected Publications</h2></div>
+<div class="sec"><h2><i class="fas fa-star" style="color:#10b981"></i>Selected Publications</h2></div>
 
 1. **Model-Agnostic Sentiment Distribution Stability Analysis for Robust LLM-Generated Texts Detection**<br>
    **Siyuan Li**, X. Lin, G. Li, Z. Liu, A. Wulianghai, L. Ding, J. Wu, J. Li.<br>
@@ -56,7 +56,7 @@ I have published over 10 papers at top venues including AAAI, IEEE TSC, IEEE TIF
    *IEEE Transactions on Cognitive Communications and Networking (TCCN)*, 2025.
 
 <!-- ================= Full Publication List ================= -->
-<div class="sec"><h2>Full Publication List</h2></div>
+<div class="sec"><h2><i class="fas fa-book" style="color:#0ea5e9"></i>Full Publication List</h2></div>
 
 ### Journal & Conference Papers
 
@@ -91,7 +91,7 @@ I have published over 10 papers at top venues including AAAI, IEEE TSC, IEEE TIF
 21–24. Other collaborative manuscripts under review.
 
 <!-- ================= Projects & Funding ================= -->
-<div class="sec"><h2>Projects & Funding</h2></div>
+<div class="sec"><h2><i class="fas fa-rocket" style="color:#ec4899"></i>Projects & Funding</h2></div>
 
 **Leading:**
 
@@ -107,7 +107,7 @@ I have published over 10 papers at top venues including AAAI, IEEE TSC, IEEE TIF
 - Key Project of NSFC (61972255): Construction and Evolution Analysis of Implicit Knowledge for Hybrid Networks, Jan. 2020 – Dec. 2023. Responsible for algorithm design for hybrid-network knowledge analysis.
 
 <!-- ================= Awards & Honors ================= -->
-<div class="sec"><h2>Awards & Honors</h2></div>
+<div class="sec"><h2><i class="fas fa-trophy" style="color:#f97316"></i>Awards & Honors</h2></div>
 
 - 2025 COSCO Shipping Scholarship, Shanghai Jiao Tong University (top 5%)
 - 2025 Outstanding Academic Paper Award, *Journal of Cyberspace Security Science*
@@ -119,6 +119,6 @@ I have published over 10 papers at top venues including AAAI, IEEE TSC, IEEE TIF
 - 2019–2021 Undergraduate Merit Scholarship (top 10%)
 
 <!-- ================= Academic Service ================= -->
-<div class="sec"><h2>Academic Service</h2></div>
+<div class="sec"><h2><i class="fas fa-handshake" style="color:#14b8a6"></i>Academic Service</h2></div>
 
 - Reviewer for ICML, ICLR, AAAI, ACM MM, TDSC, TIFS, TMC, TSC, TCCN, IPM, etc.
