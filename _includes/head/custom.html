@@ -44,33 +44,29 @@
   .research-card ul { margin:0; padding-left:1.2em; }
   .research-card li { margin:.4em 0; font-size:.93em; color:#444; }
   @media (max-width: 600px) { .research-grid { grid-template-columns:1fr; } }
-  /* ===== AISec 研究框架图润色框 ===== */
-.aisec-figure {
-  max-width: 800px;
-  margin: 2.6em auto;
-  padding: 14px;
-  position: relative;
-  background: linear-gradient(135deg, #f2faf8 0%, #eef4fb 100%);
-  border: 1px solid #dbe7e4;
-  border-radius: 22px;
-  box-shadow: 0 14px 40px rgba(15, 60, 90, .10), inset 0 1px 0 rgba(255,255,255,.9);
-}
-.aisec-figure::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 16px;
-  right: 16px;
-  height: 3px;
-  border-radius: 3px;
-  background: linear-gradient(90deg, #0f766e, #5eead4, #0f766e);
-}
-.aisec-figure img {
-  display: block;
-  width: 100%;
-  border-radius: 14px;
-  border: 1px solid #e4eeec;
-}
+  /* ===== AISec 研究框架（嵌入版） ===== */
+  .aisec-wrap { position:relative; margin:2.2em 0; padding:22px 20px 14px; border:1px solid #dbe7e4; border-radius:18px; background:linear-gradient(135deg,#f2faf8 0%,#eef4fb 100%); box-shadow:0 10px 30px rgba(15,60,90,.08); }
+  .aisec-wrap::before { content:''; position:absolute; top:0; left:18px; right:18px; height:3px; border-radius:3px; background:linear-gradient(90deg,#0f766e,#5eead4,#0f766e); }
+  .aisec-head { text-align:center; margin-bottom:14px; }
+  .aisec-logo { font-size:30px; font-weight:800; letter-spacing:6px; color:#0f3d3a; line-height:1; }
+  .aisec-logo em { font-style:normal; color:#0f766e; }
+  .aisec-slogan { margin-top:6px; font-size:11px; font-weight:700; letter-spacing:3px; color:#16302e; }
+  .aisec-sub { margin-top:3px; font-size:9.5px; letter-spacing:2px; color:#5b7a77; }
+  .aisec-sub b { color:#0f766e; }
+  .aisec-layer { display:flex; justify-content:space-between; padding:8px 4px; margin:0 0 12px; border-top:1.5px solid #dce9e6; border-bottom:1.5px solid #dce9e6; }
+  .aisec-layer span { font-size:9.5px; font-weight:700; letter-spacing:1px; color:#1e635e; }
+  .aisec-block { display:grid; grid-template-columns:160px 1fr; gap:16px; padding:13px 0; align-items:center; border-bottom:1px solid #e6efed; }
+  .aisec-block:last-child { border-bottom:none; }
+  .aisec-dtitle { font-size:15px; font-weight:800; line-height:1.3; color:#12322f; }
+  .aisec-dtitle span { color:#0f766e; }
+  .aisec-dnote { margin-top:5px; font-size:10.5px; line-height:1.5; color:#4c6a66; }
+  .aisec-items { display:grid; grid-template-columns:repeat(4,1fr); gap:8px; }
+  .aisec-item { background:#fff; border:1px solid #dfeae7; border-radius:10px; padding:10px 4px 8px; text-align:center; box-shadow:0 2px 6px rgba(15,80,70,.05); }
+  .aisec-icon { width:30px; height:30px; margin:0 auto 6px; border-radius:8px; background:#e6f4f1; color:#0f766e; display:flex; align-items:center; justify-content:center; }
+  .aisec-icon svg { width:16px; height:16px; }
+  .aisec-item p { font-size:10.5px; font-weight:600; color:#1f3d3a; line-height:1.3; }
+  .aisec-item b { color:#12322f; }
+  @media (max-width:600px){ .aisec-block{grid-template-columns:1fr;} .aisec-items{grid-template-columns:repeat(2,1fr);} }
 
 </style>
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
