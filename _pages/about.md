@@ -5,7 +5,7 @@ permalink: /about/
 <!-- ================= 顶部大标题（无中文） ================= -->
 <div class="intro">
 <h1>Hi, I am Siyuan Li</h1>
-<p>I am a <b>Ph.D. candidate</b> in the <a href="https://www.cs.sjtu.edu.cn/">School of Computer Science</a> at <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>, advised by <b>Prof. Jianhua Li</b>. I am currently a <b>joint Ph.D. student</b> between <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> and <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>. I received my <b>B.Eng. in Information Security</b> from Shanghai Jiao Tong University in 2022.</p>
+<p>I am a <b>Ph.D. candidate</b> in the <a href="https://www.cs.sjtu.edu.cn/">School of Computer Science</a> at <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>, advised by <b>Prof. Jianhua Li</b>. I am currently a <b>joint Ph.D. student</b> between <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> and <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>. I received my <b>B.Eng. in Information Security</b> from <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in 2022, advised by <a href="https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=125">Prof. Jun Wu</a>.
 <p>My research lies in <b>AI security</b> and <b>trustworthy AI</b>, with a focus on the <b>reliability and safety of AI agents</b>, <b>attack and defense in multi-agent systems</b>, and <b>content security of large language models (LLMs)</b>, as well as security risks of generative AI and intelligent edge/IoT systems.</p>
 </div>
 <!-- ================= 研究框架图 ================= -->
