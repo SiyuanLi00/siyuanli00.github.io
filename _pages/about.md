@@ -70,7 +70,7 @@ permalink: /about/
 - **M.Sc. in Computer Science**, Shanghai Jiao Tong University, *Sep. 2022 – Mar. 2024*
 - **B.Eng. in Information Security**, Shanghai Jiao Tong University, *Sep. 2018 – Jun. 2022*
 <!-- ================= Selected Publications ================= -->
-<div class="sec"><h2><span class="sec-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></span>Selected Publications</h2></div>
+<div class="sec" id="publications"><h2><span class="sec-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></span>Selected Publications</h2></div>
 <div class="pub-scroll">
   <div class="pub-card">
     <div class="title">Model-Agnostic Sentiment Distribution Stability Analysis for Robust LLM-Generated Texts Detection</div>
