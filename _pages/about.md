@@ -70,23 +70,46 @@ permalink: /about/
 - **M.Sc. in Computer Science**, Shanghai Jiao Tong University, *Sep. 2022 – Mar. 2024*
 - **B.Eng. in Information Security**, Shanghai Jiao Tong University, *Sep. 2018 – Jun. 2022*
 <!-- ================= Selected Publications ================= -->
-<div class="sec" id="publications"><h2><span class="sec-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></span>Selected Publications</h2></div>
-1. ⭐ **Model-Agnostic Sentiment Distribution Stability Analysis for Robust LLM-Generated Texts Detection**<br>
-   **Siyuan Li**, X. Lin, G. Li, Z. Liu, A. Wulianghai, L. Ding, J. Wu, J. Li.<br>
-   *AAAI 2026* (CCF-A). [arXiv]
-2. ⭐ **AI-Generated Content-Based Edge Learning for Fast and Efficient Few-Shot Defect Detection in IIoT**<br>
-   **Siyuan Li**, X. Lin, W. Xu, J. Li.<br>
-   *IEEE Transactions on Services Computing (TSC)*, 2024 (CCF-A). [arXiv]
-3. ⭐ **StyleDecipher: Revisiting LLM-Generated Texts Detection via Stylistic Divergence and Localized Attribution**<br>
-   **Siyuan Li**, A. Wulianghai, X. Lin, G. Li, X. Chen, J. Wu, J. Li.<br>
-   *IEEE Transactions on Information Forensics and Security (TIFS)*, accepted, 2026 (CCF-A). [arXiv]
-4. ⭐ **Trustworthy AI-Generative Content in Intelligent 6G Network: Adversarial, Privacy, and Fairness**<br>
-   **Siyuan Li**, X. Lin, Y. Liu, X. Chen, J. Li.<br>
-   *IEEE Communications Magazine*, 2025. [arXiv]
-5. ⭐ **QoS-Aware Multi-AIGC Service Orchestration at Edges: An Attention-Diffusion-Aided DRL Method**<br>
-   Y. Liu†, **Siyuan Li**† (co-first), X. Lin, X. Chen, G. Li, Y. Liu, B. Liao, J. Li.<br>
-   *IEEE Transactions on Cognitive Communications and Networking (TCCN)*, 2025. [arXiv]
-*See the full publication list on the [Publications](/publications/) page.*
+<div class="sec"><h2><span class="sec-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></span>Selected Publications</h2></div>
+<div class="pub-scroll">
+  <div class="pub-card">
+    <div class="title">Model-Agnostic Sentiment Distribution Stability Analysis for Robust LLM-Generated Texts Detection</div>
+    <div class="authors"><b>Siyuan Li</b>, X. Lin, G. Li, Z. Liu, A. Wulianghai, L. Ding, J. Wu, J. Li.</div>
+    <div class="venue">AAAI 2026 <em>(CCF-A)</em></div>
+    <div class="links"><a href="https://arxiv.org/abs/2508.06913">arXiv</a></div>
+    <div class="pub-figure">
+      <img src="/images/sentidetect_framework.png" alt="SentiDetect framework">
+      <div class="fig-label">SentiDetect: Framework overview</div>
+    </div>
+  </div>
+  <div class="pub-card">
+    <div class="title">AI-Generated Content-Based Edge Learning for Fast and Efficient Few-Shot Defect Detection in IIoT</div>
+    <div class="authors"><b>Siyuan Li</b>, X. Lin, W. Xu, J. Li.</div>
+    <div class="venue">IEEE Transactions on Services Computing (TSC) <em>(CCF-A)</em></div>
+    <div class="pub-figure"><div class="placeholder">FIGURE SPACE · 图片预留</div></div>
+  </div>
+  <div class="pub-card">
+    <div class="title">StyleDecipher: Revisiting LLM-Generated Texts Detection via Stylistic Divergence and Localized Attribution</div>
+    <div class="authors"><b>Siyuan Li</b>, A. Wulianghai, X. Lin, G. Li, X. Chen, J. Wu, J. Li.</div>
+    <div class="venue">IEEE Transactions on Information Forensics and Security (TIFS) <em>(accepted, 2026, CCF-A)</em></div>
+    <div class="links"><a href="https://arxiv.org/abs/2510.12608">arXiv</a></div>
+    <div class="pub-figure"><div class="placeholder">FIGURE SPACE · 图片预留</div></div>
+  </div>
+  <div class="pub-card">
+    <div class="title">Trustworthy AI-Generative Content in Intelligent 6G Network: Adversarial, Privacy, and Fairness</div>
+    <div class="authors"><b>Siyuan Li</b>, X. Lin, Y. Liu, X. Chen, J. Li.</div>
+    <div class="venue">IEEE Communications Magazine <em>(2025)</em></div>
+    <div class="links"><a href="https://arxiv.org/abs/2405.05930">arXiv</a></div>
+    <div class="pub-figure"><div class="placeholder">FIGURE SPACE · 图片预留</div></div>
+  </div>
+  <div class="pub-card">
+    <div class="title">QoS-Aware Multi-AIGC Service Orchestration at Edges: An Attention-Diffusion-Aided DRL Method</div>
+    <div class="authors">Y. Liu†, <b>Siyuan Li</b>† (co-first), X. Lin, X. Chen, G. Li, Y. Liu, B. Liao, J. Li.</div>
+    <div class="venue">IEEE Transactions on Cognitive Communications and Networking (TCCN) <em>(2025)</em></div>
+    <div class="pub-figure"><div class="placeholder">FIGURE SPACE · 图片预留</div></div>
+  </div>
+</div>
+
 <!-- ================= Projects & Funding ================= -->
 <div class="sec" id="projects"><h2><span class="sec-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 2v7.527a2 2 0 0 1-.211.896L4.72 20.55a1 1 0 0 0 .9 1.45h12.76a1 1 0 0 0 .9-1.45l-5.069-10.127A2 2 0 0 1 14 9.527V2"/><path d="M8.5 2h7"/><path d="M7 16h10"/></svg></span>Projects & Funding</h2></div>
 **Leading:**
