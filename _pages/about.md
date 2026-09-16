@@ -9,6 +9,10 @@ permalink: /about/
 . I am currently a <b>joint Ph.D. student</b> between <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> and <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>. I received my <b>B.Eng. in Information Security</b> from Shanghai Jiao Tong University in 2022.</p>
 <p>My research lies in <b>AI security</b> and <b>trustworthy AI</b>, with a focus on the <b>reliability and safety of AI agents</b>, <b>attack and defense in multi-agent systems</b>, and <b>content security of large language models (LLMs)</b>, as well as security risks of generative AI and intelligent edge/IoT systems.</p>
 </div>
+<!-- ================= 研究框架图 ================= -->
+<figure class="aisec-figure">
+  <img src="/images/aisec_framework.png" alt="AISec Research Framework">
+</figure>
 <!-- ================= News ================= -->
 <div class="sec"><h2><span class="sec-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/><path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8V6Z"/></svg></span>News</h2></div>
 - 🎉 **2026.03** — One paper accepted by **AAAI 2026** (CCF-A) on robust detection of LLM-generated texts!
