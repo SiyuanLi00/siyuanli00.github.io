@@ -83,7 +83,8 @@ document.addEventListener('click', function(e) {
   var el = document.querySelector(hash);
   if (el) {
     e.preventDefault();
-    el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    var y = el.getBoundingClientRect().top + window.pageYOffset - 90;
+    window.scrollTo({ top: y, behavior: 'smooth' });
   }
 });
 </script>
