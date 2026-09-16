@@ -44,6 +44,34 @@
   .research-card ul { margin:0; padding-left:1.2em; }
   .research-card li { margin:.4em 0; font-size:.93em; color:#444; }
   @media (max-width: 600px) { .research-grid { grid-template-columns:1fr; } }
+  /* ===== AISec 研究框架图润色框 ===== */
+.aisec-figure {
+  max-width: 800px;
+  margin: 2.6em auto;
+  padding: 14px;
+  position: relative;
+  background: linear-gradient(135deg, #f2faf8 0%, #eef4fb 100%);
+  border: 1px solid #dbe7e4;
+  border-radius: 22px;
+  box-shadow: 0 14px 40px rgba(15, 60, 90, .10), inset 0 1px 0 rgba(255,255,255,.9);
+}
+.aisec-figure::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 16px;
+  right: 16px;
+  height: 3px;
+  border-radius: 3px;
+  background: linear-gradient(90deg, #0f766e, #5eead4, #0f766e);
+}
+.aisec-figure img {
+  display: block;
+  width: 100%;
+  border-radius: 14px;
+  border: 1px solid #e4eeec;
+}
+
 </style>
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
