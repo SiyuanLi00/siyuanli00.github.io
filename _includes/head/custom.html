@@ -71,6 +71,22 @@
   html { scroll-behavior: smooth; }
   .sec { scroll-margin-top: 80px; }
 </style>
+<script>
+document.addEventListener('click', function(e) {
+  var a = e.target.closest ? e.target.closest('a[href*="#"]') : null;
+  if (!a) return;
+  var href = a.getAttribute('href') || '';
+  var idx = href.indexOf('#');
+  if (idx < 0) return;
+  var hash = href.slice(idx);
+  if (hash.length < 2) return;
+  var el = document.querySelector(hash);
+  if (el) {
+    e.preventDefault();
+    el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+});
+</script>
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
