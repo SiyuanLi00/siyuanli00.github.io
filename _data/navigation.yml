@@ -1,13 +1,13 @@
 main:
   - title: "News"
-    url: /about/#news
+    url: "#news"
   - title: "Education"
-    url: /about/#education
+    url: "#education"
   - title: "Publications"
-    url: /about/#publications
+    url: "#publications"
   - title: "Projects"
-    url: /about/#projects
+    url: "#projects"
   - title: "Honors"
-    url: /about/#honors
+    url: "#honors"
   - title: "Services"
-    url: /about/#service
+    url: "#service"
