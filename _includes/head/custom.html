@@ -70,6 +70,41 @@
   @media (max-width:600px){ .aisec-block{grid-template-columns:1fr;} .aisec-items{grid-template-columns:repeat(2,1fr);} }
   html { scroll-behavior: smooth; }
   .sec { scroll-margin-top: 80px; }
+  /* ===== 论文上下滑动窗口 ===== */
+.pub-scroll {
+  height: 430px;
+  overflow-y: auto;
+  border: 1px solid #dbe7e4;
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: 0 10px 30px rgba(15, 60, 90, .08);
+  padding: 18px 20px;
+}
+.pub-scroll::-webkit-scrollbar { width: 8px; }
+.pub-scroll::-webkit-scrollbar-thumb { background: #cfe3df; border-radius: 4px; }
+.pub-scroll::-webkit-scrollbar-track { background: #f0f6f4; }
+.pub-card { border-bottom: 1px solid #edf3f1; padding: 18px 2px 20px; }
+.pub-card:last-child { border-bottom: none; }
+.pub-card .title { font-size: 1.02em; font-weight: 700; color: #12322f; line-height: 1.4; }
+.pub-card .authors { font-size: .88em; color: #4c6a66; margin-top: 5px; line-height: 1.5; }
+.pub-card .venue { font-size: .9em; font-weight: 700; color: #0f766e; margin-top: 5px; }
+.pub-card .venue em { font-weight: 400; color: #6b8a86; }
+.pub-card .links { margin-top: 8px; }
+.pub-card .links a {
+  display: inline-block; font-size: .82em; font-weight: 600; color: #0f766e;
+  text-decoration: none; border: 1px solid #bfded8; border-radius: 20px;
+  padding: 2px 12px; margin-right: 6px; background: #f2faf8;
+}
+.pub-card .links a:hover { background: #0f766e; color: #fff; }
+.pub-figure { margin-top: 12px; border-radius: 12px; overflow: hidden; border: 1px solid #e2ecea; background: #fafcfb; }
+.pub-figure img { display: block; width: 100%; height: auto; }
+.pub-figure .fig-label { font-size: .78em; color: #6b8a86; text-align: center; padding: 6px 0; border-top: 1px solid #edf3f1; background: #f4faf8; }
+.pub-figure .placeholder {
+  height: 130px; display: flex; align-items: center; justify-content: center;
+  font-size: .8em; color: #a3bdb8; letter-spacing: 1px;
+  border: 1.5px dashed #cfe3df; border-radius: 12px; margin-top: 12px; background: #fbfdfc;
+}
+
 </style>
 <script>
 document.addEventListener('click', function(e) {
