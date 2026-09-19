@@ -126,6 +126,12 @@ html, body {
   .tag-first { background:#e6f4f1; color:#0f766e; border:1px solid #bfded8; }
   .tag-cofirst { background:#eef3fa; color:#2c5f9e; border:1px solid #c8d8ec; }
   .tag-coauthor { background:#f5f5f5; color:#667; border:1px solid #e0e0e0; }
+    /* ===== 多图卡片布局 ===== */
+  .pub-figure-grid { display:grid; grid-template-columns:1fr 1fr; gap:10px; margin-top:4px; }
+  .pub-figure-grid img { width:100%; border-radius:8px; border:1px solid #e2ecea; display:block; }
+  .pub-figure-grid .fig-wide { grid-column:1/-1; }
+  .pub-figure-grid .fig-center { grid-column:1/-1; max-width:75%; margin:0 auto; }
+
 </style>
 <script>
 document.addEventListener('click', function(e) {
