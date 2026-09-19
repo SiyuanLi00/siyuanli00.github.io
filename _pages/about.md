@@ -65,7 +65,7 @@ permalink: /about/
 - 🎉 **2022.06** — Awarded **Outstanding Graduate** at Shanghai Jiao Tong University (top 20%).
 <!-- ================= Education ================= -->
 <div class="sec" id="education"><h2><span class="sec-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"/><path d="M22 10v6"/><path d="M6 12.5V16a6 3 0 0 0 12 0v-3.5"/></svg></span>Education</h2></div>
-- **Ph.D. in Computer Science**, Shanghai Jiao Tong University & Nanyang Technological University (Joint Program), *2024 – Present*
+- **Ph.D. in Computer Science**, Shanghai Jiao Tong University, *2024 – Present*
   - Joint Ph.D. program with **Nanyang Technological University** (2026 – 2027)
 - **M.Sc. in Computer Science**, Shanghai Jiao Tong University, *Sep. 2022 – Mar. 2024*
 - **B.Eng. in Information Security**, Shanghai Jiao Tong University, *Sep. 2018 – Jun. 2022*
