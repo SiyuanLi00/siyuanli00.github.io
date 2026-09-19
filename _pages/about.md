@@ -71,192 +71,190 @@ permalink: /about/
 - **B.Eng. in Information Security**, Shanghai Jiao Tong University, *Sep. 2018 – Jun. 2022*
 <!-- ================= Publications ================= -->
 <div class="sec" id="publications"><h2><span class="sec-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></span>Publications</h2></div>
-<div class="pub-scroll">
-  <details class="pub-group" open>
-    <summary>Agent Security &amp; Reliability</summary>
-    <div class="pub-cards">
-      <div class="pub-card">
-        <div class="title">Multi-Agent RL-Based Industrial AIGC Service Offloading over Wireless Edge Networks</div>
-        <div class="authors"><b>Siyuan Li</b>, X. Lin, H. Xu, K. Hua, X. Jin, G. Li, and J. Li.</div>
-        <div class="venue">IEEE INFOCOM Workshop <em>(2024)</em> <span class="tag tag-first">First Author</span></div>
-        <div class="links"><a href="https://arxiv.org/abs/2405.02972">arXiv</a><a href="https://arxiv.org/pdf/2405.02972">PDF</a></div>
-        <div class="pub-figure"><img src="/images/pub_09_aigc_offload.png" alt="AIGC offloading"><div class="fig-label">AIGC Service Offloading</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">HoneyTrap: Deceiving LLM Attackers to Honeypot Traps with Collaborative Defenders</div>
-        <div class="authors"><b>Siyuan Li</b>, Z. Liu, X. Lin, J. Wu, H. Li, T. Ju, X. Chen, J. Li.</div>
-        <div class="venue">NDSS 2027 <em>(under review)</em> <span class="tag tag-first">First Author</span></div>
-        <div class="links"><a href="https://arxiv.org/abs/2601.04034">arXiv</a><a href="https://arxiv.org/pdf/2601.04034">PDF</a></div>
-        <div class="pub-figure"><img src="/images/pub_14_honeytrap.png" alt="HoneyTrap"><div class="fig-label">HoneyTrap</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">CoopGuard: Collaborative Agents Defense for Safeguarding LLMs Against Evolving Poisoning Attacks</div>
-        <div class="authors"><b>Siyuan Li</b>, Z. Liu, X. Lin, Q. Mao, Y. Chen, H. Li, J. Wu, J. Li, X. Su.</div>
-        <div class="venue">AAAI 2027 <em>(under review)</em> <span class="tag tag-first">First Author</span></div>
-        <div class="links"><a href="https://arxiv.org/abs/2604.04060">arXiv</a><a href="https://arxiv.org/pdf/2604.04060">PDF</a></div>
-        <div class="pub-figure"><img src="/images/pub_17_coopguard.png" alt="CoopGuard"><div class="fig-label">CoopGuard</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">Stateful Cooperative Agents Safeguarding LLMs Against Evolving Multi-Turn Attacks</div>
-        <div class="authors"><b>Siyuan Li</b>, Z. Liu, H. Li, X. Lin, Q. Mao, Y. Chen, S. Liang, X. Su, J. Wu, J. Li, D. Tao.</div>
-        <div class="venue">IEEE TDSC <em>(under review)</em> <span class="tag tag-first">First Author</span></div>
-        <div class="links"><a href="https://arxiv.org/abs/2608.00134">arXiv</a><a href="https://arxiv.org/pdf/2608.00134">PDF</a></div>
-        <div class="pub-figure"><img src="/images/pub_19_stateful.png" alt="Stateful cooperative agents"><div class="fig-label">Stateful Cooperative Agents</div></div>
-      </div>
+<details class="pub-group" open>
+  <summary>Agent Security &amp; Reliability</summary>
+  <div class="pub-cards">
+    <div class="pub-card">
+      <div class="title">Multi-Agent RL-Based Industrial AIGC Service Offloading over Wireless Edge Networks</div>
+      <div class="authors"><b>Siyuan Li</b>, X. Lin, H. Xu, K. Hua, X. Jin, G. Li, and J. Li.</div>
+      <div class="venue">IEEE INFOCOM Workshop <em>(2024)</em> <span class="tag tag-first">First Author</span></div>
+      <div class="links"><a href="https://arxiv.org/abs/2405.02972">arXiv</a><a href="https://arxiv.org/pdf/2405.02972">PDF</a></div>
+      <div class="pub-figure"><img src="/images/pub_09_aigc_offload.png" alt="AIGC offloading"><div class="fig-label">AIGC Service Offloading</div></div>
     </div>
-  </details>
-  <details class="pub-group" open>
-    <summary>LLM &amp; Generative AI Security</summary>
-    <div class="pub-cards">
-      <div class="pub-card">
-        <div class="title">Model-Agnostic Sentiment Distribution Stability Analysis for Robust LLM-Generated Texts Detection</div>
-        <div class="authors"><b>Siyuan Li</b>, X. Lin, G. Li, Z. Liu, A. Wulianghai, L. Ding, J. Wu, J. Li.</div>
-        <div class="venue">AAAI 2026 <em>(CCF-A)</em> <span class="tag tag-first">First Author</span></div>
-        <div class="links"><a href="https://arxiv.org/abs/2508.06913">arXiv</a><a href="https://arxiv.org/pdf/2508.06913">PDF</a></div>
-        <div class="pub-figure"><img src="/images/pub_01_sentidetect.png" alt="SentiDetect framework"><div class="fig-label">SentiDetect: Framework overview</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">StyleDecipher: Revisiting LLM-Generated Texts Detection via Stylistic Divergence and Localized Attribution</div>
-        <div class="authors"><b>Siyuan Li</b>, A. Wulianghai, X. Lin, G. Li, X. Chen, J. Wu, J. Li.</div>
-        <div class="venue">IEEE Transactions on Information Forensics and Security (TIFS) <em>(accepted, 2026, CCF-A)</em> <span class="tag tag-first">First Author</span></div>
-        <div class="links"><a href="https://arxiv.org/abs/2510.12608">arXiv</a><a href="https://arxiv.org/pdf/2510.12608">PDF</a></div>
-        <div class="pub-figure"><img src="/images/pub_03_styledecipher.png" alt="StyleDecipher"><div class="fig-label">StyleDecipher</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">Intent in Motion: Characterizing Strategy-Centric Attack Trajectories in Multi-Turn LLM Jailbreaks</div>
-        <div class="authors"><b>Siyuan Li</b>, A. Wulianghai, Z. Liu, X. Lin, Q. Mao, H. Li, X. Chen, S. Liang, J. Wu, J. Li.</div>
-        <div class="venue">IEEE S&amp;P 2027 <em>(under review)</em> <span class="tag tag-first">First Author</span></div>
-        <div class="links"><a href="https://arxiv.org/abs/2608.01117">arXiv</a><a href="https://arxiv.org/pdf/2608.01117">PDF</a></div>
-        <div class="pub-figure"><img src="/images/pub_15_jailbreak.png" alt="Intent in Motion"><div class="fig-label">Intent in Motion</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">Lightweight Stylistic Consistency Profiling: Robust Machine-Generated Texts Detection under Adversarial Manipulation</div>
-        <div class="authors"><b>Siyuan Li</b>, A. Wulianghai, X. Lin, G. Li, Q. Mao, X. Yuan, J. Wu, J. Li.</div>
-        <div class="venue">ACM MM 2026 <em>(under review)</em> <span class="tag tag-first">First Author</span></div>
-        <div class="links"><a href="https://arxiv.org/abs/2605.05950">arXiv</a><a href="https://arxiv.org/pdf/2605.05950">PDF</a></div>
-        <div class="pub-figure"><img src="/images/pub_18_stylistic.png" alt="Stylistic consistency profiling"><div class="fig-label">Stylistic Consistency Profiling</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">DSIPA: Detecting LLM-Generated Texts via Sentiment-Invariant Patterns Divergence Analysis</div>
-        <div class="authors"><b>Siyuan Li</b>, G. Li, X. Lin, A. Wulianghai, J. Wu, J. Li.</div>
-        <div class="venue">IEEE TIFS <em>(major revision)</em> <span class="tag tag-first">First Author</span></div>
-        <div class="links"><a href="https://arxiv.org/abs/2604.26328">arXiv</a><a href="https://arxiv.org/pdf/2604.26328">PDF</a></div>
-        <div class="pub-figure"><img src="/images/pub_20_dsipa.png" alt="DSIPA"><div class="fig-label">DSIPA</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">MisKR-Bench: Benchmarking Reasoning Robustness in LLMs against Malicious Knowledge Injection</div>
-        <div class="authors">Q. Mao, X. Lin, J. Gu, J. Wu, <b>Siyuan Li</b>, Y. Chen.</div>
-        <div class="venue">NeurIPS 2026 <em>(under review)</em> <span class="tag tag-coauthor">Co-author</span></div>
-        <div class="pub-figure"><img src="/images/pub_23_miskr.png" alt="MisKR-Bench"><div class="fig-label">MisKR-Bench</div></div>
-      </div>
+    <div class="pub-card">
+      <div class="title">HoneyTrap: Deceiving LLM Attackers to Honeypot Traps with Collaborative Defenders</div>
+      <div class="authors"><b>Siyuan Li</b>, Z. Liu, X. Lin, J. Wu, H. Li, T. Ju, X. Chen, J. Li.</div>
+      <div class="venue">NDSS 2027 <em>(under review)</em> <span class="tag tag-first">First Author</span></div>
+      <div class="links"><a href="https://arxiv.org/abs/2601.04034">arXiv</a><a href="https://arxiv.org/pdf/2601.04034">PDF</a></div>
+      <div class="pub-figure"><img src="/images/pub_14_honeytrap.png" alt="HoneyTrap"><div class="fig-label">HoneyTrap</div></div>
     </div>
-  </details>
-  <details class="pub-group" open>
-    <summary>Trustworthy Applications</summary>
-    <div class="pub-cards">
-      <div class="pub-card">
-        <div class="title">AI-Generated Content-Based Edge Learning for Fast and Efficient Few-Shot Defect Detection in IIoT</div>
-        <div class="authors"><b>Siyuan Li</b>, X. Lin, W. Xu, J. Li.</div>
-        <div class="venue">IEEE Transactions on Services Computing (TSC) <em>(CCF-A)</em> <span class="tag tag-first">First Author</span></div>
-        <div class="links"><a href="https://www.computer.org/csdl/journal/sc/5555/01/10609561/1YRIWoLXtNm">Paper</a></div>
-        <div class="pub-figure"><img src="/images/pub_02_tsc_iiot.png" alt="TSC edge learning"><div class="fig-label">TSC Edge Learning</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">Trustworthy AI-Generative Content in Intelligent 6G Network: Adversarial, Privacy, and Fairness</div>
-        <div class="authors"><b>Siyuan Li</b>, X. Lin, Y. Liu, X. Chen, J. Li.</div>
-        <div class="venue">IEEE Communications Magazine <em>(2025)</em> <span class="tag tag-first">First Author</span></div>
-        <div class="links"><a href="https://arxiv.org/abs/2405.05930">arXiv</a><a href="https://arxiv.org/pdf/2405.05930">PDF</a></div>
-        <div class="pub-figure"><img src="/images/pub_04_commag_6g.png" alt="Trustworthy AIGC in 6G"><div class="fig-label">Trustworthy AIGC in 6G</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">QoS-Aware Multi-AIGC Service Orchestration at Edges: An Attention-Diffusion-Aided DRL Method</div>
-        <div class="authors">Y. Liu†, <b>Siyuan Li</b>† (co-first), X. Lin, X. Chen, G. Li, Y. Liu, B. Liao, J. Li.</div>
-        <div class="venue">IEEE Transactions on Cognitive Communications and Networking (TCCN) <em>(2025)</em> <span class="tag tag-cofirst">Co-first Author</span></div>
-        <div class="links"><a href="https://doi.org/10.1109/TCCN.2025.3531486">Paper</a></div>
-        <div class="pub-figure"><img src="/images/pub_05_tccn_aigc.png" alt="AIGC service orchestration"><div class="fig-label">AIGC Service Orchestration</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">Digital Twin and Artificial Intelligence-Empowered Panoramic Video Streaming: Reducing Transmission Latency in the XR-Assisted Vehicular Metaverse</div>
-        <div class="authors"><b>Siyuan Li</b>, X. Lin, J. Wu, W. Zhang, J. Li.</div>
-        <div class="venue">IEEE Vehicular Technology Magazine (VTM) <em>(2023)</em> <span class="tag tag-first">First Author</span></div>
-        <div class="links"><a href="https://doi.org/10.1109/MVT.2023.3321172">Paper</a></div>
-        <div class="pub-figure"><img src="/images/pub_06_vtm_metaverse.png" alt="Vehicular metaverse"><div class="fig-label">Vehicular Metaverse</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">OpticGAI: Generative AI-aided Deep Reinforcement Learning for Optical Networks Optimization</div>
-        <div class="authors"><b>Siyuan Li</b>, X. Lin, Y. Liu, G. Li, J. Li.</div>
-        <div class="venue">ACM SIGCOMM Workshop <em>(2024)</em> <span class="tag tag-first">First Author</span></div>
-        <div class="links"><a href="https://arxiv.org/abs/2406.15906">arXiv</a><a href="https://arxiv.org/pdf/2406.15906">PDF</a></div>
-        <div class="pub-figure"><img src="/images/pub_07_opticgai.png" alt="OpticGAI"><div class="fig-label">OpticGAI</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">When Digital Twin Meets Deep Reinforcement Learning in Multi-UAV Path Planning</div>
-        <div class="authors"><b>Siyuan Li</b>, X. Lin, J. Wu, A. K. Bashir, R. Nawaz.</div>
-        <div class="venue">ACM MobiCom Workshop <em>(2022)</em> <span class="tag tag-first">First Author</span></div>
-        <div class="links"><a href="https://dl.acm.org/doi/10.1145/3555661.3560865">Paper</a><a href="https://dl.acm.org/doi/pdf/10.1145/3555661.3560865">PDF</a></div>
-        <div class="pub-figure"><img src="/images/pub_08_uav_dt.png" alt="Multi-UAV path planning"><div class="fig-label">Multi-UAV Path Planning</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">DPG-DT: Differentially Private Generative Digital Twin for Imbalanced Learning in Industrial IoT</div>
-        <div class="authors"><b>Siyuan Li</b>, X. Lin, G. Li, L. Chen, S. Liao, J. Wang, J. Li.</div>
-        <div class="venue">International Conference on Mobility, Sensing and Networking (MSN) <em>(2023)</em> <span class="tag tag-first">First Author</span></div>
-        <div class="links"><a href="https://www.computer.org/csdl/proceedings-article/msn/2023/582600a270/1Y5FbcvQVoY">Paper</a></div>
-        <div class="pub-figure"><img src="/images/pub_10_dpgdt.png" alt="DPG-DT"><div class="fig-label">DPG-DT</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">HXRL: Explainable DRL-Enhanced Reliable VR Video Streaming for Immersive Smart Healthcare</div>
-        <div class="authors">Y. Wang, <b>Siyuan Li</b>, X. Lin, Y. Bai, J. Yu, L. Chen, B. Yang, X. Guan.</div>
-        <div class="venue">IEEE Internet of Things Journal (IoT-J) <em>(2025)</em> <span class="tag tag-coauthor">Co-author</span></div>
-        <div class="links"><a href="https://xplorestaging.ieee.org/document/11045118/authors">Paper</a></div>
-        <div class="pub-figure"><img src="/images/pub_11_hxrl.png" alt="HXRL"><div class="fig-label">HXRL</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">Towards Multi-Task Generative-AI Edge Services with an Attention-based Diffusion DRL Approach</div>
-        <div class="authors">Y. Liu, X. Lin, <b>Siyuan Li</b>, G. Li, Q. Mao, J. Li.</div>
-        <div class="venue">IEEE International Conference on Smart Cloud (SmartCloud) <em>(2024)</em> <span class="tag tag-coauthor">Co-author</span></div>
-        <div class="links"><a href="https://arxiv.org/abs/2405.08328">arXiv</a><a href="https://arxiv.org/pdf/2405.08328">PDF</a></div>
-        <div class="pub-figure"><img src="/images/pub_12_smartcloud.png" alt="Multi-task edge AIGC"><div class="fig-label">Multi-Task Edge AIGC</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">大数据安全与隐私计算技术综述</div>
-        <div class="authors">李建华，银鹰，<b>李思源</b>，等.</div>
-        <div class="venue">网络空间安全科学学报 <em>(2024)</em> <span class="tag tag-coauthor">Co-author</span></div>
-        <div class="links"><a href="http://dianda.cqvip.com/Qikan/Article/Detail?id=7200283877">Paper</a></div>
-        <div class="pub-figure"><img src="/images/pub_13_bigdata_survey.png" alt="Big-data privacy survey"><div class="fig-label">Big-Data Privacy Survey</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">Privacy Tabular Data Synthesis via Multi-Agent Collaboration</div>
-        <div class="authors"><b>Siyuan Li</b>, A. Wulianghai, X. Yuan, X. Lin, X. Chen, S. Liang, J. Wu, J. Li, D. Tao.</div>
-        <div class="venue">ICLR 2027 <em>(under review)</em> <span class="tag tag-first">First Author</span></div>
-        <div class="pub-figure"><img src="/images/pub_16_tabular_syn.png" alt="Tabular data synthesis"><div class="fig-label">Tabular Data Synthesis</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">Arthas: Harnessing High-Performance and Accurate In-Network Machine Learning by Bridging Switch ASICs and SmartNICs</div>
-        <div class="authors">X. Chen, Z. Jiang, L. Zhu, J. Yu, Y. Xian, X. Li, <b>Siyuan Li</b>, X. Lin, J. Li, H. Liu, D. Zhang, C. Wu.</div>
-        <div class="venue">RTSS 2026 <em>(under review)</em> <span class="tag tag-coauthor">Co-author</span></div>
-        <div class="pub-figure"><img src="/images/pub_24_arthas.png" alt="Arthas"><div class="fig-label">Arthas</div></div>
-      </div>
+    <div class="pub-card">
+      <div class="title">CoopGuard: Collaborative Agents Defense for Safeguarding LLMs Against Evolving Poisoning Attacks</div>
+      <div class="authors"><b>Siyuan Li</b>, Z. Liu, X. Lin, Q. Mao, Y. Chen, H. Li, J. Wu, J. Li, X. Su.</div>
+      <div class="venue">AAAI 2027 <em>(under review)</em> <span class="tag tag-first">First Author</span></div>
+      <div class="links"><a href="https://arxiv.org/abs/2604.04060">arXiv</a><a href="https://arxiv.org/pdf/2604.04060">PDF</a></div>
+      <div class="pub-figure"><img src="/images/pub_17_coopguard.png" alt="CoopGuard"><div class="fig-label">CoopGuard</div></div>
     </div>
-  </details>
-  <details class="pub-group" open>
-    <summary>Other</summary>
-    <div class="pub-cards">
-      <div class="pub-card">
-        <div class="title">Don't Only Fine-Tune Majority: Federated Gradient-Balanced Prompt Learning for Long-Tailed Heterogeneous Data</div>
-        <div class="authors">Y. Liu, X. Lin, J. Wu, <b>Siyuan Li</b>, Y. Chen, Q. Mao, X. Su.</div>
-        <div class="venue">ACM MM 2026 <em>(under review)</em> <span class="tag tag-coauthor">Co-author</span></div>
-        <div class="pub-figure"><img src="/images/pub_21_fedprompt.png" alt="Federated prompt learning"><div class="fig-label">Federated Prompt Learning</div></div>
-      </div>
-      <div class="pub-card">
-        <div class="title">Kurtosis-Aware Coupled Sparsity: Training-Free Activation Sparsity for Large Language Models</div>
-        <div class="authors">G. Li, L. Sun, <b>Siyuan Li</b>, H. Zhang, Y. Tang, W. Zhang.</div>
-        <div class="venue">ACL 2026 <em>(under review)</em> <span class="tag tag-coauthor">Co-author</span></div>
-        <div class="links"><a href="https://openreview.net/forum?id=hn9Ld7MDeX">Paper</a></div>
-        <div class="pub-figure"><img src="/images/pub_22_kurtosis.png" alt="Kurtosis-aware sparsity"><div class="fig-label">KACS</div></div>
-      </div>
+    <div class="pub-card">
+      <div class="title">Stateful Cooperative Agents Safeguarding LLMs Against Evolving Multi-Turn Attacks</div>
+      <div class="authors"><b>Siyuan Li</b>, Z. Liu, H. Li, X. Lin, Q. Mao, Y. Chen, S. Liang, X. Su, J. Wu, J. Li, D. Tao.</div>
+      <div class="venue">IEEE TDSC <em>(under review)</em> <span class="tag tag-first">First Author</span></div>
+      <div class="links"><a href="https://arxiv.org/abs/2608.00134">arXiv</a><a href="https://arxiv.org/pdf/2608.00134">PDF</a></div>
+      <div class="pub-figure"><img src="/images/pub_19_stateful.png" alt="Stateful cooperative agents"><div class="fig-label">Stateful Cooperative Agents</div></div>
     </div>
-  </details>
-</div>
+  </div>
+</details>
+<details class="pub-group" open>
+  <summary>LLM &amp; Generative AI Security</summary>
+  <div class="pub-cards">
+    <div class="pub-card">
+      <div class="title">Model-Agnostic Sentiment Distribution Stability Analysis for Robust LLM-Generated Texts Detection</div>
+      <div class="authors"><b>Siyuan Li</b>, X. Lin, G. Li, Z. Liu, A. Wulianghai, L. Ding, J. Wu, J. Li.</div>
+      <div class="venue">AAAI 2026 <em>(CCF-A)</em> <span class="tag tag-first">First Author</span></div>
+      <div class="links"><a href="https://arxiv.org/abs/2508.06913">arXiv</a><a href="https://arxiv.org/pdf/2508.06913">PDF</a></div>
+      <div class="pub-figure"><img src="/images/pub_01_sentidetect.png" alt="SentiDetect framework"><div class="fig-label">SentiDetect: Framework overview</div></div>
+    </div>
+    <div class="pub-card">
+      <div class="title">StyleDecipher: Revisiting LLM-Generated Texts Detection via Stylistic Divergence and Localized Attribution</div>
+      <div class="authors"><b>Siyuan Li</b>, A. Wulianghai, X. Lin, G. Li, X. Chen, J. Wu, J. Li.</div>
+      <div class="venue">IEEE Transactions on Information Forensics and Security (TIFS) <em>(accepted, 2026, CCF-A)</em> <span class="tag tag-first">First Author</span></div>
+      <div class="links"><a href="https://arxiv.org/abs/2510.12608">arXiv</a><a href="https://arxiv.org/pdf/2510.12608">PDF</a></div>
+      <div class="pub-figure"><img src="/images/pub_03_styledecipher.png" alt="StyleDecipher"><div class="fig-label">StyleDecipher</div></div>
+    </div>
+    <div class="pub-card">
+      <div class="title">Intent in Motion: Characterizing Strategy-Centric Attack Trajectories in Multi-Turn LLM Jailbreaks</div>
+      <div class="authors"><b>Siyuan Li</b>, A. Wulianghai, Z. Liu, X. Lin, Q. Mao, H. Li, X. Chen, S. Liang, J. Wu, J. Li.</div>
+      <div class="venue">IEEE S&amp;P 2027 <em>(under review)</em> <span class="tag tag-first">First Author</span></div>
+      <div class="links"><a href="https://arxiv.org/abs/2608.01117">arXiv</a><a href="https://arxiv.org/pdf/2608.01117">PDF</a></div>
+      <div class="pub-figure"><img src="/images/pub_15_jailbreak.png" alt="Intent in Motion"><div class="fig-label">Intent in Motion</div></div>
+    </div>
+    <div class="pub-card">
+      <div class="title">Lightweight Stylistic Consistency Profiling: Robust Machine-Generated Texts Detection under Adversarial Manipulation</div>
+      <div class="authors"><b>Siyuan Li</b>, A. Wulianghai, X. Lin, G. Li, Q. Mao, X. Yuan, J. Wu, J. Li.</div>
+      <div class="venue">ACM MM 2026 <em>(under review)</em> <span class="tag tag-first">First Author</span></div>
+      <div class="links"><a href="https://arxiv.org/abs/2605.05950">arXiv</a><a href="https://arxiv.org/pdf/2605.05950">PDF</a></div>
+      <div class="pub-figure"><img src="/images/pub_18_stylistic.png" alt="Stylistic consistency profiling"><div class="fig-label">Stylistic Consistency Profiling</div></div>
+    </div>
+    <div class="pub-card">
+      <div class="title">DSIPA: Detecting LLM-Generated Texts via Sentiment-Invariant Patterns Divergence Analysis</div>
+      <div class="authors"><b>Siyuan Li</b>, G. Li, X. Lin, A. Wulianghai, J. Wu, J. Li.</div>
+      <div class="venue">IEEE TIFS <em>(major revision)</em> <span class="tag tag-first">First Author</span></div>
+      <div class="links"><a href="https://arxiv.org/abs/2604.26328">arXiv</a><a href="https://arxiv.org/pdf/2604.26328">PDF</a></div>
+      <div class="pub-figure"><img src="/images/pub_20_dsipa.png" alt="DSIPA"><div class="fig-label">DSIPA</div></div>
+    </div>
+    <div class="pub-card">
+      <div class="title">MisKR-Bench: Benchmarking Reasoning Robustness in LLMs against Malicious Knowledge Injection</div>
+      <div class="authors">Q. Mao, X. Lin, J. Gu, J. Wu, <b>Siyuan Li</b>, Y. Chen.</div>
+      <div class="venue">NeurIPS 2026 <em>(under review)</em> <span class="tag tag-coauthor">Co-author</span></div>
+      <div class="pub-figure"><img src="/images/pub_23_miskr.png" alt="MisKR-Bench"><div class="fig-label">MisKR-Bench</div></div>
+    </div>
+  </div>
+</details>
+<details class="pub-group" open>
+  <summary>Trustworthy Applications</summary>
+  <div class="pub-cards">
+    <div class="pub-card">
+      <div class="title">AI-Generated Content-Based Edge Learning for Fast and Efficient Few-Shot Defect Detection in IIoT</div>
+      <div class="authors"><b>Siyuan Li</b>, X. Lin, W. Xu, J. Li.</div>
+      <div class="venue">IEEE Transactions on Services Computing (TSC) <em>(CCF-A)</em> <span class="tag tag-first">First Author</span></div>
+      <div class="links"><a href="https://www.computer.org/csdl/journal/sc/5555/01/10609561/1YRIWoLXtNm">Paper</a></div>
+      <div class="pub-figure"><img src="/images/pub_02_tsc_iiot.png" alt="TSC edge learning"><div class="fig-label">TSC Edge Learning</div></div>
+    </div>
+    <div class="pub-card">
+      <div class="title">Trustworthy AI-Generative Content in Intelligent 6G Network: Adversarial, Privacy, and Fairness</div>
+      <div class="authors"><b>Siyuan Li</b>, X. Lin, Y. Liu, X. Chen, J. Li.</div>
+      <div class="venue">IEEE Communications Magazine <em>(2025)</em> <span class="tag tag-first">First Author</span></div>
+      <div class="links"><a href="https://arxiv.org/abs/2405.05930">arXiv</a><a href="https://arxiv.org/pdf/2405.05930">PDF</a></div>
+      <div class="pub-figure"><img src="/images/pub_04_commag_6g.png" alt="Trustworthy AIGC in 6G"><div class="fig-label">Trustworthy AIGC in 6G</div></div>
+    </div>
+    <div class="pub-card">
+      <div class="title">QoS-Aware Multi-AIGC Service Orchestration at Edges: An Attention-Diffusion-Aided DRL Method</div>
+      <div class="authors">Y. Liu†, <b>Siyuan Li</b>† (co-first), X. Lin, X. Chen, G. Li, Y. Liu, B. Liao, J. Li.</div>
+      <div class="venue">IEEE Transactions on Cognitive Communications and Networking (TCCN) <em>(2025)</em> <span class="tag tag-cofirst">Co-first Author</span></div>
+      <div class="links"><a href="https://doi.org/10.1109/TCCN.2025.3531486">Paper</a></div>
+      <div class="pub-figure"><img src="/images/pub_05_tccn_aigc.png" alt="AIGC service orchestration"><div class="fig-label">AIGC Service Orchestration</div></div>
+    </div>
+    <div class="pub-card">
+      <div class="title">Digital Twin and Artificial Intelligence-Empowered Panoramic Video Streaming: Reducing Transmission Latency in the XR-Assisted Vehicular Metaverse</div>
+      <div class="authors"><b>Siyuan Li</b>, X. Lin, J. Wu, W. Zhang, J. Li.</div>
+      <div class="venue">IEEE Vehicular Technology Magazine (VTM) <em>(2023)</em> <span class="tag tag-first">First Author</span></div>
+      <div class="links"><a href="https://doi.org/10.1109/MVT.2023.3321172">Paper</a></div>
+      <div class="pub-figure"><img src="/images/pub_06_vtm_metaverse.png" alt="Vehicular metaverse"><div class="fig-label">Vehicular Metaverse</div></div>
+    </div>
+    <div class="pub-card">
+      <div class="title">OpticGAI: Generative AI-aided Deep Reinforcement Learning for Optical Networks Optimization</div>
+      <div class="authors"><b>Siyuan Li</b>, X. Lin, Y. Liu, G. Li, J. Li.</div>
+      <div class="venue">ACM SIGCOMM Workshop <em>(2024)</em> <span class="tag tag-first">First Author</span></div>
+      <div class="links"><a href="https://arxiv.org/abs/2406.15906">arXiv</a><a href="https://arxiv.org/pdf/2406.15906">PDF</a></div>
+      <div class="pub-figure"><img src="/images/pub_07_opticgai.png" alt="OpticGAI"><div class="fig-label">OpticGAI</div></div>
+    </div>
+    <div class="pub-card">
+      <div class="title">When Digital Twin Meets Deep Reinforcement Learning in Multi-UAV Path Planning</div>
+      <div class="authors"><b>Siyuan Li</b>, X. Lin, J. Wu, A. K. Bashir, R. Nawaz.</div>
+      <div class="venue">ACM MobiCom Workshop <em>(2022)</em> <span class="tag tag-first">First Author</span></div>
+      <div class="links"><a href="https://dl.acm.org/doi/10.1145/3555661.3560865">Paper</a><a href="https://dl.acm.org/doi/pdf/10.1145/3555661.3560865">PDF</a></div>
+      <div class="pub-figure"><img src="/images/pub_08_uav_dt.png" alt="Multi-UAV path planning"><div class="fig-label">Multi-UAV Path Planning</div></div>
+    </div>
+    <div class="pub-card">
+      <div class="title">DPG-DT: Differentially Private Generative Digital Twin for Imbalanced Learning in Industrial IoT</div>
+      <div class="authors"><b>Siyuan Li</b>, X. Lin, G. Li, L. Chen, S. Liao, J. Wang, J. Li.</div>
+      <div class="venue">International Conference on Mobility, Sensing and Networking (MSN) <em>(2023)</em> <span class="tag tag-first">First Author</span></div>
+      <div class="links"><a href="https://www.computer.org/csdl/proceedings-article/msn/2023/582600a270/1Y5FbcvQVoY">Paper</a></div>
+      <div class="pub-figure"><img src="/images/pub_10_dpgdt.png" alt="DPG-DT"><div class="fig-label">DPG-DT</div></div>
+    </div>
+    <div class="pub-card">
+      <div class="title">HXRL: Explainable DRL-Enhanced Reliable VR Video Streaming for Immersive Smart Healthcare</div>
+      <div class="authors">Y. Wang, <b>Siyuan Li</b>, X. Lin, Y. Bai, J. Yu, L. Chen, B. Yang, X. Guan.</div>
+      <div class="venue">IEEE Internet of Things Journal (IoT-J) <em>(2025)</em> <span class="tag tag-coauthor">Co-author</span></div>
+      <div class="links"><a href="https://xplorestaging.ieee.org/document/11045118/authors">Paper</a></div>
+      <div class="pub-figure"><img src="/images/pub_11_hxrl.png" alt="HXRL"><div class="fig-label">HXRL</div></div>
+    </div>
+    <div class="pub-card">
+      <div class="title">Towards Multi-Task Generative-AI Edge Services with an Attention-based Diffusion DRL Approach</div>
+      <div class="authors">Y. Liu, X. Lin, <b>Siyuan Li</b>, G. Li, Q. Mao, J. Li.</div>
+      <div class="venue">IEEE International Conference on Smart Cloud (SmartCloud) <em>(2024)</em> <span class="tag tag-coauthor">Co-author</span></div>
+      <div class="links"><a href="https://arxiv.org/abs/2405.08328">arXiv</a><a href="https://arxiv.org/pdf/2405.08328">PDF</a></div>
+      <div class="pub-figure"><img src="/images/pub_12_smartcloud.png" alt="Multi-task edge AIGC"><div class="fig-label">Multi-Task Edge AIGC</div></div>
+    </div>
+    <div class="pub-card">
+      <div class="title">大数据安全与隐私计算技术综述</div>
+      <div class="authors">李建华，银鹰，<b>李思源</b>，等.</div>
+      <div class="venue">网络空间安全科学学报 <em>(2024)</em> <span class="tag tag-coauthor">Co-author</span></div>
+      <div class="links"><a href="http://dianda.cqvip.com/Qikan/Article/Detail?id=7200283877">Paper</a></div>
+      <div class="pub-figure"><img src="/images/pub_13_bigdata_survey.png" alt="Big-data privacy survey"><div class="fig-label">Big-Data Privacy Survey</div></div>
+    </div>
+    <div class="pub-card">
+      <div class="title">Privacy Tabular Data Synthesis via Multi-Agent Collaboration</div>
+      <div class="authors"><b>Siyuan Li</b>, A. Wulianghai, X. Yuan, X. Lin, X. Chen, S. Liang, J. Wu, J. Li, D. Tao.</div>
+      <div class="venue">ICLR 2027 <em>(under review)</em> <span class="tag tag-first">First Author</span></div>
+      <div class="pub-figure"><img src="/images/pub_16_tabular_syn.png" alt="Tabular data synthesis"><div class="fig-label">Tabular Data Synthesis</div></div>
+    </div>
+    <div class="pub-card">
+      <div class="title">Arthas: Harnessing High-Performance and Accurate In-Network Machine Learning by Bridging Switch ASICs and SmartNICs</div>
+      <div class="authors">X. Chen, Z. Jiang, L. Zhu, J. Yu, Y. Xian, X. Li, <b>Siyuan Li</b>, X. Lin, J. Li, H. Liu, D. Zhang, C. Wu.</div>
+      <div class="venue">RTSS 2026 <em>(under review)</em> <span class="tag tag-coauthor">Co-author</span></div>
+      <div class="pub-figure"><img src="/images/pub_24_arthas.png" alt="Arthas"><div class="fig-label">Arthas</div></div>
+    </div>
+  </div>
+</details>
+<details class="pub-group" open>
+  <summary>Other</summary>
+  <div class="pub-cards">
+    <div class="pub-card">
+      <div class="title">Don't Only Fine-Tune Majority: Federated Gradient-Balanced Prompt Learning for Long-Tailed Heterogeneous Data</div>
+      <div class="authors">Y. Liu, X. Lin, J. Wu, <b>Siyuan Li</b>, Y. Chen, Q. Mao, X. Su.</div>
+      <div class="venue">ACM MM 2026 <em>(under review)</em> <span class="tag tag-coauthor">Co-author</span></div>
+      <div class="pub-figure"><img src="/images/pub_21_fedprompt.png" alt="Federated prompt learning"><div class="fig-label">Federated Prompt Learning</div></div>
+    </div>
+    <div class="pub-card">
+      <div class="title">Kurtosis-Aware Coupled Sparsity: Training-Free Activation Sparsity for Large Language Models</div>
+      <div class="authors">G. Li, L. Sun, <b>Siyuan Li</b>, H. Zhang, Y. Tang, W. Zhang.</div>
+      <div class="venue">ACL 2026 <em>(under review)</em> <span class="tag tag-coauthor">Co-author</span></div>
+      <div class="links"><a href="https://openreview.net/forum?id=hn9Ld7MDeX">Paper</a></div>
+      <div class="pub-figure"><img src="/images/pub_22_kurtosis.png" alt="Kurtosis-aware sparsity"><div class="fig-label">KACS</div></div>
+    </div>
+  </div>
+</details>
 
 <!-- ================= Projects & Funding ================= -->
 <div class="sec" id="projects"><h2><span class="sec-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 2v7.527a2 2 0 0 1-.211.896L4.72 20.55a1 1 0 0 0 .9 1.45h12.76a1 1 0 0 0 .9-1.45l-5.069-10.127A2 2 0 0 1 14 9.527V2"/><path d="M8.5 2h7"/><path d="M7 16h10"/></svg></span>Projects & Funding</h2></div>
