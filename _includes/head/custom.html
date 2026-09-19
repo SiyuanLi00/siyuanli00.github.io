@@ -76,7 +76,7 @@ html, body {
   .aisec-item b { color:#12322f; }
   @media (max-width:600px){ .aisec-block{grid-template-columns:1fr;} .aisec-items{grid-template-columns:repeat(2,1fr);} }
   html { scroll-behavior: smooth; }
-  .sec { scroll-margin-top: 80px; }
+  .sec { scroll-margin-top: 110px; }
   /* ===== 论文上下滑动窗口 ===== */
 .pub-scroll {
   height: 760px;
@@ -145,7 +145,7 @@ document.addEventListener('click', function(e) {
   var el = document.querySelector(hash);
   if (el) {
     e.preventDefault();
-    var y = el.getBoundingClientRect().top + window.pageYOffset - 90;
+    var y = el.getBoundingClientRect().top + window.pageYOffset - 110;
     window.scrollTo({ top: y, behavior: 'smooth' });
   }
 });
