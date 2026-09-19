@@ -112,8 +112,8 @@ html, body {
   border: 1.5px dashed #cfe3df; border-radius: 12px; margin-top: 12px; background: #fbfdfc;
 }
   /* ===== 论文分组下拉框 ===== */
-  .pub-group { border:1px solid #dbe7e4; border-radius:14px; margin-bottom:14px; background:#fbfdfc; overflow-y:auto; max-height:720px; }
-  .pub-group summary { list-style:none; cursor:pointer; display:flex; align-items:center; gap:10px; padding:14px 18px; background:linear-gradient(135deg,#f2faf8 0%,#eef4fb 100%); font-size:1.04em; font-weight:700; letter-spacing:.5px; color:#12322f; user-select:none; transition:background .2s ease; }
+  .pub-group { border:1px solid #dbe7e4; border-radius:14px; margin-bottom:14px; background:#fbfdfc; overflow-y:auto; max-height:1440px; }
+  .pub-group summary { list-style:none; cursor:pointer; display:flex; align-items:center; gap:10px; padding:14px 18px; background:linear-gradient(135deg,#f2faf8 0%,#eef4fb 100%); font-size:1.04em; font-weight:700; letter-spacing:.5px; color:#12322f; user-select:none; transition:background .2s ease; position:sticky; top:0; z-index:10; }
   .pub-group summary::-webkit-details-marker { display:none; }
   .pub-group summary::before { content:''; width:9px; height:9px; border-right:2.5px solid #0f766e; border-bottom:2.5px solid #0f766e; transform:rotate(-45deg); transition:transform .2s ease; margin-right:2px; flex:none; }
   .pub-group[open] summary::before { transform:rotate(45deg); }
