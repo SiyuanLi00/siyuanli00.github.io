@@ -72,7 +72,6 @@ permalink: /about/
 <!-- ================= Publications ================= -->
 <div class="sec" id="publications"><h2><span class="sec-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></span>Publications</h2></div>
 <div class="pub-scroll">
-  <!-- ===== Agent Security & Reliability ===== -->
   <details class="pub-group" open>
     <summary>Agent Security &amp; Reliability</summary>
     <div class="pub-cards">
@@ -106,7 +105,6 @@ permalink: /about/
       </div>
     </div>
   </details>
-  <!-- ===== LLM & Generative AI Security ===== -->
   <details class="pub-group" open>
     <summary>LLM &amp; Generative AI Security</summary>
     <div class="pub-cards">
@@ -153,7 +151,6 @@ permalink: /about/
       </div>
     </div>
   </details>
-  <!-- ===== Trustworthy Applications ===== -->
   <details class="pub-group" open>
     <summary>Trustworthy Applications</summary>
     <div class="pub-cards">
@@ -241,7 +238,6 @@ permalink: /about/
       </div>
     </div>
   </details>
-  <!-- ===== Other ===== -->
   <details class="pub-group" open>
     <summary>Other</summary>
     <div class="pub-cards">
@@ -261,6 +257,7 @@ permalink: /about/
     </div>
   </details>
 </div>
+
 <!-- ================= Projects & Funding ================= -->
 <div class="sec" id="projects"><h2><span class="sec-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 2v7.527a2 2 0 0 1-.211.896L4.72 20.55a1 1 0 0 0 .9 1.45h12.76a1 1 0 0 0 .9-1.45l-5.069-10.127A2 2 0 0 1 14 9.527V2"/><path d="M8.5 2h7"/><path d="M7 16h10"/></svg></span>Projects & Funding</h2></div>
 **Leading:**
