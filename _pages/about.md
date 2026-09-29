@@ -88,7 +88,7 @@ permalink: /about/
 <details class="pub-group" open><summary>Content Security of LLMs</summary><div class="pub-cards">
 <div class="pub-card"><div class="pub-thumb"><img src="/images/llm-1.png" alt="SoK Multi-Turn Jailbreaks"></div><div class="pub-info"><div class="title">SoK: Internet-Oriented Systematization of Multi-Turn LLM Jailbreaks</div><div class="authors">S. Li, A. Wulianghai, Z. Liu, X. Lin, Q. Mao, H. Li, X. Chen, S. Liang, J. Wu, J. Li.</div><div class="venue">arXiv preprint, 2026</div><div class="links"><a href="https://arxiv.org/abs/2608.01117">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@article{li2026sokjailbreak,
   title={SoK: Internet-Oriented Systematization of Multi-Turn LLM Jailbreaks},
-  author={Li, Siyuan and Wulianghai, Aishanjiang and Liu, Zonggang and Lin, Xing and Mao, Qinghao and Li, Han and Chen, Xiao and Liang, Shan and Wu, Jie and Li, Jianhua},
+  author={Li, Siyuan and Wulianghai, Aodu and Liu, Zonggang and Lin, Xing and Mao, Qinghao and Li, Han and Chen, Xiao and Liang, Shan and Wu, Jie and Li, Jianhua},
   journal={arXiv preprint arXiv:2608.01117}, year={2026}}</pre></details></div></div>
 <div class="pub-card"><div class="pub-thumb"><img src="/images/llm-2.png" alt="MisKR-Bench"></div><div class="pub-info"><div class="title">Benchmarking Safety Risks of Knowledge-Intensive Reasoning under Malicious Knowledge Editing</div><div class="authors">Q. Mao, X. Lin, J. Gu, J. Wu, S. Li, Y. Chen.</div><div class="venue">arXiv preprint, 2026</div><div class="links"><a href="https://arxiv.org/abs/2605.10146">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@article{mao2026miskr,
   title={Benchmarking Safety Risks of Knowledge-Intensive Reasoning under Malicious Knowledge Editing},
@@ -96,63 +96,73 @@ permalink: /about/
   journal={arXiv preprint arXiv:2605.10146}, year={2026}}</pre></details></div></div>
 <div class="pub-card"><div class="pub-thumb"><img src="/images/llm-3.png" alt="Lightweight Stylistic Profiling"></div><div class="pub-info"><div class="title">Lightweight Stylistic Consistency Profiling: Robust Detection of LLM-Generated Textual Content for Multimedia Moderation</div><div class="authors">S. Li, A. Wulianghai, X. Lin, Q. Mao, G. Li, X. Chen, J. Wu, J. Li.</div><div class="venue">arXiv preprint, 2026</div><div class="links"><a href="https://arxiv.org/abs/2605.05950">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@article{li2026lightweight,
   title={Lightweight Stylistic Consistency Profiling: Robust Detection of LLM-Generated Textual Content for Multimedia Moderation},
-  author={Li, Siyuan and Wulianghai, Aishanjiang and Lin, Xing and Mao, Qinghao and Li, Gang and Chen, Xiao and Wu, Jie and Li, Jianhua},
+  author={Li, Siyuan and Wulianghai, Aodu and Lin, Xing and Mao, Qinghao and Li, Gang and Chen, Xiao and Wu, Jie and Li, Jianhua},
   journal={arXiv preprint arXiv:2605.05950}, year={2026}}</pre></details></div></div>
 <div class="pub-card"><div class="pub-thumb"><img src="/images/llm-4.png" alt="DSIPA"></div><div class="pub-info"><div class="title">DSIPA: Detecting LLM-Generated Texts via Sentiment-Invariant Patterns Divergence Analysis</div><div class="authors">S. Li, A. Wulianghai, G. Li, X. Lin, Q. Mao, Y. Chen, J. Wu, J. Li.</div><div class="venue">arXiv preprint, 2026</div><div class="links"><a href="https://arxiv.org/abs/2604.26328">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@article{li2026dsipa,
   title={DSIPA: Detecting LLM-Generated Texts via Sentiment-Invariant Patterns Divergence Analysis},
-  author={Li, Siyuan and Wulianghai, Aishanjiang and Li, Gang and Lin, Xing and Mao, Qinghao and Chen, Yikai and Wu, Jie and Li, Jianhua},
+  author={Li, Siyuan and Wulianghai, Aodu and Li, Gang and Lin, Xing and Mao, Qinghao and Chen, Yikai and Wu, Jie and Li, Jianhua},
   journal={arXiv preprint arXiv:2604.26328}, year={2026}}</pre></details></div></div>
-<div class="pub-card"><div class="pub-thumb"><img src="/images/llm-5.png" alt="SentiDetect"></div><div class="pub-info"><div class="title">Model-Agnostic Sentiment Distribution Stability Analysis for Robust LLM-Generated Texts Detection</div><div class="authors">S. Li, X. Lin, G. Li, Z. Liu, A. Wulianghai, L. Ding, J. Wu, J. Li.</div><div class="venue">Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026</div><div class="links"><a href="https://arxiv.org/abs/2508.06913">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@inproceedings{li2026sentidetect,
-  title={Model-Agnostic Sentiment Distribution Stability Analysis for Robust LLM-Generated Texts Detection},
-  author={Li, Siyuan and Lin, Xing and Li, Gang and Liu, Zonggang and Wulianghai, Aishanjiang and Ding, Liang and Wu, Jie and Li, Jianhua},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)}, year={2026}}</pre></details></div></div>
-<div class="pub-card"><div class="pub-thumb"><img src="/images/llm-6.png" alt="StyleDecipher"></div><div class="pub-info"><div class="title">StyleDecipher: Robust and Explainable Detection of LLM-Generated Texts with Stylistic Analysis</div><div class="authors">S. Li, A. Wulianghai, X. Lin, G. Li, X. Chen, J. Wu, J. Li.</div><div class="venue">IEEE Transactions on Information Forensics and Security (TIFS), 2025</div><div class="links"><a href="https://arxiv.org/abs/2510.12608">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@article{li2025styledecipher,
-  title={StyleDecipher: Robust and Explainable Detection of LLM-Generated Texts with Stylistic Analysis},
-  author={Li, Siyuan and Wulianghai, Aishanjiang and Lin, Xing and Li, Gang and Chen, Xiao and Wu, Jie and Li, Jianhua},
-  journal={IEEE Transactions on Information Forensics and Security}, year={2025}}</pre></details></div></div>
+<div class="pub-card"><div class="pub-thumb"><img src="/images/llm-5.png" alt="SentiDetect"></div><div class="pub-info"><div class="title">Model-Agnostic Sentiment Distribution Stability Analysis for Robust LLM-Generated Texts Detection</div><div class="authors">S. Li, X. Lin, G. Li, Z. Liu, A. Wulianghai, L. Ding, J. Wu, J. Li.</div><div class="venue">Proceedings of the AAAI Conference on Artificial Intelligence, 2026</div><div class="links"><a href="https://arxiv.org/abs/2508.06913">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@inproceedings{li2026model,
+  title={Model-agnostic sentiment distribution stability analysis for robust LLM-generated texts detection},
+  author={Li, Siyuan and Lin, Xi and Li, Guangyan and Liu, Zehao and Wulianghai, Aodu and Ding, Li and Wu, Jun and Li, Jianhua},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40}, number={42}, pages={35608--35616}, year={2026}}</pre></details></div></div>
+<div class="pub-card"><div class="pub-thumb"><img src="/images/llm-6.png" alt="StyleDecipher"></div><div class="pub-info"><div class="title">StyleDecipher: Robust and Explainable Detection of LLM-Generated Texts with Stylistic Analysis</div><div class="authors">S. Li, A. Wulianghai, X. Lin, G. Li, X. Chen, J. Wu, J. Li.</div><div class="venue">arXiv preprint, 2025</div><div class="links"><a href="https://arxiv.org/abs/2510.12608">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@article{li2025styledecipher,
+  title={Styledecipher: Robust and explainable detection of llm-generated texts with stylistic analysis},
+  author={Li, Siyuan and Wulianghai, Aodu and Lin, Xi and Li, Guangyan and Chen, Xiang and Wu, Jun and Li, Jianhua},
+  journal={arXiv preprint arXiv:2510.12608}, year={2025}}</pre></details></div></div>
 </div></details>
 
 <details class="pub-group" open><summary>Risks of Agent Applications in Realistic / Industrial Systems</summary><div class="pub-cards">
-<div class="pub-card"><div class="pub-thumb"><img src="/images/app-1.png" alt="HXRL"></div><div class="pub-info"><div class="title">HXRL: Explainable DRL-Enhanced Reliable VR Video Streaming for Immersive Smart Healthcare</div><div class="authors">Y. Wang, S. Li, X. Lin, Y. Bai, Y. Chen, B. Yang, X. Guan.</div><div class="venue">IEEE Internet of Things Journal, 2025</div><div class="links"><a href="https://xplorestaging.ieee.org/document/11045118/authors">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@article{wang2025hxrl,
-  title={HXRL: Explainable DRL-Enhanced Reliable VR Video Streaming for Immersive Smart Healthcare},
-  author={Wang, Y. and Li, Siyuan and Lin, Xing and Bai, Y. and Chen, Y. and Yang, B. and Guan, X.},
-  journal={IEEE Internet of Things Journal}, year={2025}}</pre></details></div></div>
-<div class="pub-card"><div class="pub-thumb"><img src="/images/app-2.png" alt="Trustworthy AIGC in 6G"></div><div class="pub-info"><div class="title">Trustworthy AI-Generative Content for Intelligent Network Service: Robustness, Security, and Fairness</div><div class="authors">S. Li, X. Lin, Y. Liu, X. Chen, J. Li.</div><div class="venue">IEEE Communications Magazine, 2025</div><div class="links"><a href="https://arxiv.org/abs/2405.05930">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@article{li2025commag,
-  title={Trustworthy AI-Generative Content for Intelligent Network Service: Robustness, Security, and Fairness},
-  author={Li, Siyuan and Lin, Xing and Liu, Yang and Chen, Xiao and Li, Jianhua},
-  journal={IEEE Communications Magazine}, year={2025}}</pre></details></div></div>
-<div class="pub-card"><div class="pub-thumb"><img src="/images/app-3.png" alt="TCCN QoS"></div><div class="pub-info"><div class="title">QoS-Aware Multi-AIGC Service Orchestration at Edges: An Attention-Diffusion-Aided DRL Method</div><div class="authors">Y. Liu, S. Li, X. Lin, X. Chen, G. Li, Y. Liu, B. Liao, J. Li.</div><div class="venue">IEEE Transactions on Cognitive Communications and Networking, 2025</div><div class="links"><a href="https://doi.org/10.1109/TCCN.2025.3531486">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@article{liu2025tccn,
-  title={QoS-Aware Multi-AIGC Service Orchestration at Edges: An Attention-Diffusion-Aided DRL Method},
-  author={Liu, Yang and Li, Siyuan and Lin, Xing and Chen, Xiao and Li, Gang and Liu, Yu and Liao, B. and Li, Jianhua},
-  journal={IEEE Transactions on Cognitive Communications and Networking}, year={2025}}</pre></details></div></div>
-<div class="pub-card"><div class="pub-thumb"><img src="/images/app-4.png" alt="Big-Data Privacy Survey"></div><div class="pub-info"><div class="title">大数据安全与隐私计算技术综述</div><div class="authors">J. Li, Y. Yin, S. Li, et al.</div><div class="venue">网络空间安全科学学报, 2024</div><div class="links"><a href="http://dianda.cqvip.com/Qikan/Article/Detail?id=7200283877">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@article{li2024bigsurvey,
+<div class="pub-card"><div class="pub-thumb"><img src="/images/app-1.png" alt="HXRL"></div><div class="pub-info"><div class="title">HXRL: Explainable DRL-Enhanced Reliable VR Video Streaming for Immersive Smart Healthcare</div><div class="authors">Y. Wang, S. Li, X. Lin, Y. Bai, J. Yu, L. Chen, B. Yang, X. Guan.</div><div class="venue">IEEE Internet of Things Journal, 2025</div><div class="links"><a href="https://xplorestaging.ieee.org/document/11045118/authors">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@article{wang2025hxrl,
+  title={HXRL: Explainable DRL-Enhanced reliable VR video streaming for immersive smart healthcare},
+  author={Wang, Ye and Li, Siyuan and Lin, Xi and Bai, Yang and Yu, Jianqi and Chen, Lixing and Yang, Bo and Guan, Xinping},
+  journal={IEEE Internet of Things Journal}, volume={12}, number={17}, pages={35278--35293},
+  year={2025}, publisher={IEEE}}</pre></details></div></div>
+<div class="pub-card"><div class="pub-thumb"><img src="/images/app-2.png" alt="Trustworthy AIGC in 6G"></div><div class="pub-info"><div class="title">Trustworthy AI-Generative Content for Intelligent Network Service: Robustness, Security, and Fairness</div><div class="authors">S. Li, X. Lin, Y. Liu, X. Chen, J. Li.</div><div class="venue">IEEE Communications Magazine, 2025</div><div class="links"><a href="https://arxiv.org/abs/2405.05930">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@article{li2025trustworthy,
+  title={Trustworthy ai-generative content for intelligent network service: Robustness, security, and fairness},
+  author={Li, Siyuan and Lin, Xi and Liu, Yaju and Chen, Xiang and Li, Jianhua},
+  journal={IEEE Communications Magazine}, volume={64}, number={2}, pages={120--126},
+  year={2025}, publisher={IEEE}}</pre></details></div></div>
+<div class="pub-card"><div class="pub-thumb"><img src="/images/app-3.png" alt="TCCN QoS"></div><div class="pub-info"><div class="title">QoS-Aware Multi-AIGC Service Orchestration at Edges: An Attention-Diffusion-Aided DRL Method</div><div class="authors">Y. Liu, S. Li, X. Lin, X. Chen, G. Li, Y. Liu, B. Liao, J. Li.</div><div class="venue">IEEE Transactions on Cognitive Communications and Networking, 2025</div><div class="links"><a href="https://doi.org/10.1109/TCCN.2025.3531486">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@article{liu2025qos,
+  title={QoS-aware multi-AIGC service orchestration at edges: An attention-diffusion-aided DRL method},
+  author={Liu, Yaju and Li, Siyuan and Lin, Xi and Chen, Xiuzhen and Li, Gaolei and Liu, Yuchen and Liao, Bolin and Li, Jianhua},
+  journal={IEEE Transactions on Cognitive Communications and Networking}, volume={11}, number={2}, pages={1078--1090},
+  year={2025}, publisher={IEEE}}</pre></details></div></div>
+<div class="pub-card"><div class="pub-thumb"><img src="/images/app-4.png" alt="Big-Data Privacy Survey"></div><div class="pub-info"><div class="title">大数据安全与隐私计算技术综述</div><div class="authors">J. Li, Y. Yin, S. Li, X. Lin.</div><div class="venue">网络空间安全科学学报, 2024</div><div class="links"><a href="http://dianda.cqvip.com/Qikan/Article/Detail?id=7200283877">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@article{li2024bigdata,
   title={大数据安全与隐私计算技术综述},
-  author={Li, Jianhua and Yin, Ying and Li, Siyuan and others},
-  journal={网络空间安全科学学报}, year={2024}}</pre></details></div></div>
-<div class="pub-card"><div class="pub-thumb"><img src="/images/app-5.png" alt="OpticGAI"></div><div class="pub-info"><div class="title">OpticGAI: Generative AI-Aided Deep Reinforcement Learning for Optical Networks Optimization</div><div class="authors">S. Li, X. Lin, Y. Liu, G. Li, J. Li.</div><div class="venue">Proceedings of the ACM SIGCOMM Workshop on Hot Topics in Optical Networks (HotOptics), 2024</div><div class="links"><a href="https://arxiv.org/abs/2406.15906">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@inproceedings{li2024opticgai,
-  title={OpticGAI: Generative AI-Aided Deep Reinforcement Learning for Optical Networks Optimization},
-  author={Li, Siyuan and Lin, Xing and Liu, Yang and Li, Gang and Li, Jianhua},
-  booktitle={Proceedings of the ACM SIGCOMM Workshop on Hot Topics in Optical Networks (HotOptics)}, year={2024}}</pre></details></div></div>
-<div class="pub-card"><div class="pub-thumb"><img src="/images/app-6.png" alt="TSC Edge Learning"></div><div class="pub-info"><div class="title">AI-Generated Content-Based Edge Learning for Fast and Efficient Few-Shot Defect Detection in IIoT</div><div class="authors">S. Li, X. Lin, W. Xu, J. Li.</div><div class="venue">IEEE Transactions on Services Computing, 2024</div><div class="links"><a href="https://www.computer.org/csdl/journal/sc/5555/01/10609561/1YRIWoLXtNm">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@article{li2024tsc,
-  title={AI-Generated Content-Based Edge Learning for Fast and Efficient Few-Shot Defect Detection in IIoT},
-  author={Li, Siyuan and Lin, Xing and Xu, W. and Li, Jianhua},
-  journal={IEEE Transactions on Services Computing}, year={2024}}</pre></details></div></div>
-<div class="pub-card"><div class="pub-thumb"><img src="/images/app-7.png" alt="SmartCloud Multi-Task"></div><div class="pub-info"><div class="title">Towards Multi-Task Generative-AI Edge Services with an Attention-Based Diffusion DRL Approach</div><div class="authors">Y. Liu, X. Lin, S. Li, G. Li, Q. Mao, J. Li.</div><div class="venue">IEEE International Conference on Smart Cloud (SmartCloud), 2024</div><div class="links"><a href="https://arxiv.org/abs/2405.08328">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@inproceedings{liu2024smartcloud,
-  title={Towards Multi-Task Generative-AI Edge Services with an Attention-Based Diffusion DRL Approach},
-  author={Liu, Yang and Lin, Xing and Li, Siyuan and Li, Gang and Mao, Qinghao and Li, Jianhua},
-  booktitle={IEEE International Conference on Smart Cloud (SmartCloud)}, year={2024}}</pre></details></div></div>
-<div class="pub-card"><div class="pub-thumb"><img src="/images/app-8.png" alt="AIGC Offloading"></div><div class="pub-info"><div class="title">Multi-Agent RL-Based Industrial AIGC Service Offloading over Wireless Edge Networks</div><div class="authors">S. Li, X. Lin, H. Xu, K. Hua, X. Jin, G. Li, J. Li.</div><div class="venue">IEEE INFOCOM Workshops, 2024</div><div class="links"><a href="https://arxiv.org/abs/2405.02972">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@inproceedings{li2024offloading,
-  title={Multi-Agent RL-Based Industrial AIGC Service Offloading over Wireless Edge Networks},
-  author={Li, Siyuan and Lin, Xing and Xu, H. and Hua, K. and Jin, X. and Li, Gang and Li, Jianhua},
-  booktitle={IEEE INFOCOM Workshops}, year={2024}}</pre></details></div></div>
-<div class="pub-card"><div class="pub-thumb"><img src="/images/app-9.png" alt="DPG-DT"></div><div class="pub-info"><div class="title">DPG-DT: Differentially Private Generative Digital Twin for Imbalanced Learning in Industrial IoT</div><div class="authors">S. Li, X. Lin, G. Li, L. Chen, S. Liao, J. Wang, J. Li.</div><div class="venue">International Conference on Mobility, Sensing and Networking (MSN), 2023</div><div class="links"><a href="https://www.computer.org/csdl/proceedings-article/msn/2023/582600a270/1Y5FbcvQVoY">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@inproceedings{li2023dpgdt,
-  title={DPG-DT: Differentially Private Generative Digital Twin for Imbalanced Learning in Industrial IoT},
-  author={Li, Siyuan and Lin, Xing and Li, Gang and Chen, L. and Liao, S. and Wang, J. and Li, Jianhua},
-  booktitle={International Conference on Mobility, Sensing and Networking (MSN)}, year={2023}}</pre></details></div></div>
-<div class="pub-card"><div class="pub-thumb"><img src="/images/app-10.png" alt="Panoramic Video Streaming"></div><div class="pub-info"><div class="title">Digital Twin and Artificial Intelligence-Empowered Panoramic Video Streaming: Reducing Transmission Latency in the Extended Reality-Assisted Vehicular Metaverse</div><div class="authors">S. Li, X. Lin, J. Wu, W. Zhang, J. Li.</div><div class="venue">IEEE Vehicular Technology Magazine, 2023</div><div class="links"><a href="https://doi.org/10.1109/MVT.2023.3321172">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@article{li2023vtm,
-  title={Digital Twin and Artificial Intelligence-Empowered Panoramic Video Streaming: Reducing Transmission Latency in the Extended Reality-Assisted Vehicular Metaverse},
-  author={Li, Siyuan and Lin, Xing and Wu, Jie and Zhang, W. and Li, Jianhua},
-  journal={IEEE Vehicular Technology Magazine}, year={2023}}</pre></details></div></div>
+  author={李建华 and 银鹰 and 李思源 and 林夕},
+  journal={网络空间安全科学学报}, volume={2}, number={6}, pages={1--15}, year={2024}}</pre></details></div></div>
+<div class="pub-card"><div class="pub-thumb"><img src="/images/app-5.png" alt="OpticGAI"></div><div class="pub-info"><div class="title">OpticGAI: Generative AI-Aided Deep Reinforcement Learning for Optical Networks Optimization</div><div class="authors">S. Li, X. Lin, Y. Liu, G. Li, J. Li.</div><div class="venue">Proceedings of the 1st SIGCOMM Workshop on Hot Topics in Optical Technologies and Applications in Networking, 2024</div><div class="links"><a href="https://arxiv.org/abs/2406.15906">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@inproceedings{li2024opticgai,
+  title={OpticGAI: generative AI-aided deep reinforcement learning for optical networks optimization},
+  author={Li, Siyuan and Lin, Xi and Liu, Yaju and Li, Gaolei and Li, Jianhua},
+  booktitle={Proceedings of the 1st SIGCOMM Workshop on Hot Topics in Optical Technologies and Applications in Networking},
+  pages={1--6}, year={2024}}</pre></details></div></div>
+<div class="pub-card"><div class="pub-thumb"><img src="/images/app-6.png" alt="TSC Edge Learning"></div><div class="pub-info"><div class="title">AI-Generated Content-Based Edge Learning for Fast and Efficient Few-Shot Defect Detection in IIoT</div><div class="authors">S. Li, X. Lin, W. Xu, J. Li.</div><div class="venue">IEEE Transactions on Services Computing, 2024</div><div class="links"><a href="https://www.computer.org/csdl/journal/sc/5555/01/10609561/1YRIWoLXtNm">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@article{li2024ai,
+  title={AI-generated content-based edge learning for fast and efficient few-shot defect detection in IIoT},
+  author={Li, Siyuan and Lin, Xi and Xu, Wenchao and Li, Jianhua},
+  journal={IEEE Transactions on Services Computing}, volume={17}, number={6}, pages={3140--3153},
+  year={2024}, publisher={IEEE}}</pre></details></div></div>
+<div class="pub-card"><div class="pub-thumb"><img src="/images/app-7.png" alt="SmartCloud Multi-Task"></div><div class="pub-info"><div class="title">Towards Multi-Task Generative-AI Edge Services with an Attention-Based Diffusion DRL Approach</div><div class="authors">Y. Liu, X. Lin, S. Li, G. Li, Q. Mao, J. Li.</div><div class="venue">2024 9th IEEE International Conference on Smart Cloud (SmartCloud), 2024</div><div class="links"><a href="https://arxiv.org/abs/2405.08328">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@inproceedings{liu2024towards,
+  title={Towards multi-task generative-AI edge services with an attention-based diffusion DRL approach},
+  author={Liu, Yaju and Lin, Xi and Li, Siyuan and Li, Gaolei and Mao, Qinghua and Li, Jianhua},
+  booktitle={2024 9th IEEE International Conference on Smart Cloud (SmartCloud)},
+  pages={60--65}, year={2024}, organization={IEEE}}</pre></details></div></div>
+<div class="pub-card"><div class="pub-thumb"><img src="/images/app-8.png" alt="AIGC Offloading"></div><div class="pub-info"><div class="title">Multi-Agent RL-Based Industrial AIGC Service Offloading over Wireless Edge Networks</div><div class="authors">S. Li, X. Lin, H. Xu, K. Hua, X. Jin, G. Li, J. Li.</div><div class="venue">IEEE INFOCOM 2024 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), 2024</div><div class="links"><a href="https://arxiv.org/abs/2405.02972">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@inproceedings{li2024multi,
+  title={Multi-agent RL-based industrial AIGC service offloading over wireless edge networks},
+  author={Li, Siyuan and Lin, Xi and Xu, Hansong and Hua, Kun and Jin, Xiaomin and Li, Gaolei and Li, Jianhua},
+  booktitle={IEEE INFOCOM 2024-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)},
+  pages={1--6}, year={2024}, organization={IEEE}}</pre></details></div></div>
+<div class="pub-card"><div class="pub-thumb"><img src="/images/app-9.png" alt="DPG-DT"></div><div class="pub-info"><div class="title">DPG-DT: Differentially Private Generative Digital Twin for Imbalanced Learning in Industrial IoT</div><div class="authors">S. Li, X. Lin, G. Li, L. Chen, S. Liao, J. Wang, J. Li.</div><div class="venue">2023 19th International Conference on Mobility, Sensing and Networking (MSN), 2023</div><div class="links"><a href="https://www.computer.org/csdl/proceedings-article/msn/2023/582600a270/1Y5FbcvQVoY">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@inproceedings{li2023dpg,
+  title={DPG-DT: Differentially private generative digital twin for imbalanced learning in industrial IoT},
+  author={Li, Siyuan and Lin, Xi and Li, Gaolei and Chen, Lixing and Liao, Siyi and Wang, Jing and Li, Jianhua},
+  booktitle={2023 19th International Conference on Mobility, Sensing and Networking (MSN)},
+  pages={270--276}, year={2023}, organization={IEEE}}</pre></details></div></div>
+<div class="pub-card"><div class="pub-thumb"><img src="/images/app-10.png" alt="Panoramic Video Streaming"></div><div class="pub-info"><div class="title">Digital Twin and Artificial Intelligence-Empowered Panoramic Video Streaming: Reducing Transmission Latency in the Extended Reality-Assisted Vehicular Metaverse</div><div class="authors">S. Li, X. Lin, J. Wu, W. Zhang, J. Li.</div><div class="venue">IEEE Vehicular Technology Magazine, 2023</div><div class="links"><a href="https://doi.org/10.1109/MVT.2023.3321172">Paper</a></div><details class="pub-bib"><summary>Bib</summary><pre>@article{li2023digital,
+  title={Digital twin and artificial intelligence-empowered panoramic video streaming: Reducing transmission latency in the extended reality-assisted vehicular metaverse},
+  author={Li, Siyuan and Lin, Xi and Wu, Jun and Zhang, Wei and Li, Jianhua},
+  journal={IEEE Vehicular Technology Magazine}, volume={18}, number={4}, pages={56--65},
+  year={2023}, publisher={IEEE}}</pre></details></div></div>
 </div></details>
 <!-- ================= Projects & Funding ================= -->
 <div class="sec" id="projects"><h2><span class="sec-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 2v7.527a2 2 0 0 1-.211.896L4.72 20.55a1 1 0 0 0 .9 1.45h12.76a1 1 0 0 0 .9-1.45l-5.069-10.127A2 2 0 0 1 14 9.527V2"/><path d="M8.5 2h7"/><path d="M7 16h10"/></svg></span>Projects &amp; Funding</h2></div>
