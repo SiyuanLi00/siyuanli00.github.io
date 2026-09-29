@@ -88,22 +88,24 @@ html { scroll-behavior: smooth; }
 .pub-info .title { font-size:1.02em; font-weight:700; color:#12322f; line-height:1.4; }
 .pub-info .authors { font-size:.88em; color:#4c6a66; margin-top:5px; line-height:1.5; }
 .pub-info .venue { font-size:.88em; color:#0f766e; margin-top:5px; font-style:italic; }
-.pub-info .links { margin-top:8px; display:flex; gap:6px; align-items:center; flex-wrap:wrap; }
-.pub-info .links a, .pub-info .links summary {
+/* ===== Paper 和 Bib 按钮并排同行 ===== */
+.pub-info .links { display:inline-flex; gap:6px; align-items:center; margin-top:8px; vertical-align:top; }
+.pub-info .links a {
   display:inline-block; font-size:.82em; font-weight:600; color:#0f766e;
   text-decoration:none; border:1px solid #bfded8; border-radius:20px;
-  padding:2px 12px; background:#f2faf8; cursor:pointer; list-style:none;
+  padding:2px 12px; background:#f2faf8; cursor:pointer;
 }
 .pub-info .links a:hover { background:#0f766e; color:#fff; }
-.pub-bib { margin-top:8px; }
+.pub-bib { display:inline-block; margin-top:8px; margin-left:6px; vertical-align:top; }
 .pub-bib summary { list-style:none; display:inline-block; font-size:.82em; font-weight:600; color:#2c5f9e; border:1px solid #c8d8ec; border-radius:20px; padding:2px 12px; background:#eef3fa; cursor:pointer; }
 .pub-bib summary::-webkit-details-marker { display:none; }
 .pub-bib summary:hover { background:#2c5f9e; color:#fff; }
-.pub-bib pre { margin-top:8px; background:#f4f8f7; border:1px solid #dbe7e4; border-radius:10px; padding:12px 14px; font-size:.78em; line-height:1.5; color:#2d4a46; white-space:pre-wrap; word-break:break-all; overflow-x:auto; }
+.pub-bib pre { display:block; width:100%; margin-top:8px; background:#f4f8f7; border:1px solid #dbe7e4; border-radius:10px; padding:12px 14px; font-size:.78em; line-height:1.5; color:#2d4a46; white-space:pre-wrap; word-break:break-all; overflow-x:auto; }
 @media (max-width:600px) {
   .pub-card { flex-direction:column; align-items:flex-start; }
   .pub-thumb { flex:none; }
   .pub-thumb img, .pub-thumb .thumb-ph { width:100%; }
+  .pub-info .links, .pub-bib { display:flex; }
 }
 </style>
 <script>
