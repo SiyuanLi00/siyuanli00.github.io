@@ -70,7 +70,6 @@ html, body {
 @media (max-width:600px){ .aisec-block{grid-template-columns:1fr;} .aisec-items{grid-template-columns:repeat(2,1fr);} }
 html { scroll-behavior: smooth; }
 .sec { scroll-margin-top: 110px; }
-
 /* ===== 论文分组下拉框 ===== */
 .pub-group { border:1px solid #dbe7e4; border-radius:14px; margin-bottom:14px; background:#fbfdfc; overflow-y:auto; max-height:1440px; }
 .pub-group > summary { list-style:none; cursor:pointer; display:flex; align-items:center; gap:10px; padding:14px 18px; background:linear-gradient(135deg,#f2faf8 0%,#eef4fb 100%); font-size:1.04em; font-weight:700; letter-spacing:.5px; color:#12322f; user-select:none; transition:background .2s ease; position:sticky; top:0; z-index:10; }
@@ -79,11 +78,10 @@ html { scroll-behavior: smooth; }
 .pub-group[open] > summary::before { transform:rotate(45deg); }
 .pub-group > summary:hover { background:linear-gradient(135deg,#e9f6f2 0%,#e7f0fa 100%); }
 .pub-group .pub-cards { padding:6px 18px 14px; }
-
-/* ===== 横排论文卡片：左图右文 ===== */
-.pub-card { display:flex; gap:18px; padding:18px 2px; border-bottom:1px solid #edf3f1; align-items:flex-start; }
+/* ===== 横排论文卡片：左图右文，图垂直居中 ===== */
+.pub-card { display:flex; gap:18px; padding:18px 2px; border-bottom:1px solid #edf3f1; align-items:center; }
 .pub-card:last-child { border-bottom:none; }
-.pub-thumb { flex:0 0 170px; }
+.pub-thumb { flex:0 0 170px; align-self:center; }
 .pub-thumb img { width:170px; height:auto; border-radius:10px; border:1px solid #e2ecea; display:block; background:#fafcfb; }
 .pub-thumb .thumb-ph { width:170px; height:110px; border-radius:10px; border:1.5px dashed #cfe3df; background:#fbfdfc; display:flex; align-items:center; justify-content:center; font-size:.72em; color:#a3bdb8; text-align:center; letter-spacing:.5px; }
 .pub-info { flex:1; min-width:0; }
@@ -103,7 +101,7 @@ html { scroll-behavior: smooth; }
 .pub-bib summary:hover { background:#2c5f9e; color:#fff; }
 .pub-bib pre { margin-top:8px; background:#f4f8f7; border:1px solid #dbe7e4; border-radius:10px; padding:12px 14px; font-size:.78em; line-height:1.5; color:#2d4a46; white-space:pre-wrap; word-break:break-all; overflow-x:auto; }
 @media (max-width:600px) {
-  .pub-card { flex-direction:column; }
+  .pub-card { flex-direction:column; align-items:flex-start; }
   .pub-thumb { flex:none; }
   .pub-thumb img, .pub-thumb .thumb-ph { width:100%; }
 }
